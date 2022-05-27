@@ -1,0 +1,370 @@
+2022-05-19 12:50:11 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2022-05-19 12:50:36 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Temp_00001_20220519124658.pcap
+2022-05-19 12:50:36 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/
+2022-05-19 12:50:36 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-19 12:50:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2022-05-19 12:50:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Temp_00001_20220519124658.pcap
+2022-05-19 12:51:21 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Temp_00003_20220519124859.pcap
+2022-05-19 12:51:21 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/
+2022-05-19 12:51:21 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 44 fe 4f* 86 dd 60 07    33......)D.O..`.
+0010: 5d b1 00 08  3a ff fe 80  00 00 00 00  00 00 76 09    ]...:.........v.
+0020: eb 9f 51 2c  89 e8 ff 02  00 00 00 00  00 00 00 00    ..Q,............
+0030: 00 00 00 00  00 02 85 00  40 79 00 00  00 00*         ........@y....  
+
+
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-19 12:51:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Temp_00003_20220519124859.pcap
+2022-05-19 12:51:29 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> /root/Temp_00004_20220519124859.pcap
+2022-05-19 12:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Temp_00004_20220519124959.pcap
+2022-05-19 12:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/
+2022-05-19 12:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 0c 00 50  56 c0 00 08* 86 dd 60 0a    33.....PV.....`.
+0010: fa ff 02 98  11 01 fe 80  00 00 00 00  00 00 d0 8c    ................
+0020: a6 8a ad 48  30 5f ff 02  00 00 00 00  00 00 00 00    ...H0_..........
+0030: 00 00 00 00  00 0c d3 00  0e 76 02 98  95 3f 3c 3f    .........v...?<?
+0040: 78 6d 6c 20  76 65 72 73  69 6f 6e 3d  22 31 2e 30    xml version="1.0
+0050: 22 20 65 6e  63 6f 64 69  6e 67 3d 22  75 74 66 2d    " encoding="utf-
+0060: 38 22 3f 3e  3c 73 6f 61  70 3a 45 6e  76 65 6c 6f    8"?><soap:Envelo
+0070: 70 65 20 78  6d 6c 6e 73  3a 73 6f 61  70 3d 22 68    pe xmlns:soap="h
+0080: 74 74 70 3a  2f 2f 77 77  77 2e 77 33  2e 6f 72 67    ttp://www.w3.org
+0090: 2f 32 30 30  33 2f 30 35  2f 73 6f 61  70 2d 65 6e    /2003/05/soap-en
+00a0: 76 65 6c 6f  70 65 22 20  78 6d 6c 6e  73 3a 77 73    velope" xmlns:ws
+00b0: 61 3d 22 68  74 74 70 3a  2f 2f 73 63  68 65 6d 61    a="http://schema
+00c0: 73 2e 78 6d  6c 73 6f 61  70 2e 6f 72  67 2f 77 73    s.xmlsoap.org/ws
+00d0: 2f 32 30 30  34 2f 30 38  2f 61 64 64  72 65 73 73    /2004/08/address
+00e0: 69 6e 67 22  20 78 6d 6c  6e 73 3a 77  73 64 3d 22    ing" xmlns:wsd="
+00f0: 68 74 74 70  3a 2f 2f 73  63 68 65 6d  61 73 2e 78    http://schemas.x
+0100: 6d 6c 73 6f  61 70 2e 6f  72 67 2f 77  73 2f 32 30    mlsoap.org/ws/20
+0110: 30 35 2f 30  34 2f 64 69  73 63 6f 76  65 72 79 22    05/04/discovery"
+0120: 3e 3c 73 6f  61 70 3a 48  65 61 64 65  72 3e 3c 77    ><soap:Header><w
+0130: 73 61 3a 54  6f 3e 75 72  6e 3a 73 63  68 65 6d 61    sa:To>urn:schema
+0140: 73 2d 78 6d  6c 73 6f 61  70 2d 6f 72  67 3a 77 73    s-xmlsoap-org:ws
+0150: 3a 32 30 30  35 3a 30 34  3a 64 69 73  63 6f 76 65    :2005:04:discove
+0160: 72 79 3c 2f  77 73 61 3a  54 6f 3e 3c  77 73 61 3a    ry</wsa:To><wsa:
+0170: 41 63 74 69  6f 6e 3e 68  74 74 70 3a  2f 2f 73 63    Action>http://sc
+0180: 68 65 6d 61  73 2e 78 6d  6c 73 6f 61  70 2e 6f 72    hemas.xmlsoap.or
+0190: 67 2f 77 73  2f 32 30 30  35 2f 30 34  2f 64 69 73    g/ws/2005/04/dis
+01a0: 63 6f 76 65  72 79 2f 52  65 73 6f 6c  76 65 3c 2f    covery/Resolve</
+01b0: 77 73 61 3a  41 63 74 69  6f 6e 3e 3c  77 73 61 3a    wsa:Action><wsa:
+01c0: 4d 65 73 73  61 67 65 49  44 3e 75 72  6e 3a 75 75    MessageID>urn:uu
+01d0: 69 64 3a 34  36 35 34 63  64 64 36 2d  63 36 35 61    id:4654cdd6-c65a
+01e0: 2d 34 62 35  63 2d 62 33  32 38 2d 30  32 65 64 39    -4b5c-b328-02ed9
+01f0: 63 65 32 37  32 63 35 3c  2f 77 73 61  3a 4d 65 73    ce272c5</wsa:Mes
+0200: 73 61 67 65  49 44 3e 3c  2f 73 6f 61  70 3a 48 65    sageID></soap:He
+0210: 61 64 65 72  3e 3c 73 6f  61 70 3a 42  6f 64 79 3e    ader><soap:Body>
+0220: 3c 77 73 64  3a 52 65 73  6f 6c 76 65  3e 3c 77 73    <wsd:Resolve><ws
+0230: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+0240: 6e 63 65 3e  3c 77 73 61  3a 41 64 64  72 65 73 73    nce><wsa:Address
+0250: 3e 75 72 6e  3a 75 75 69  64 3a 31 35  33 35 65 66    >urn:uuid:1535ef
+0260: 31 36 2d 63  30 37 35 2d  66 37 39 66  2d 65 64 64    16-c075-f79f-edd
+0270: 34 2d 34 62  62 61 61 34  61 36 35 66  34 39 3c 2f    4-4bbaa4a65f49</
+0280: 77 73 61 3a  41 64 64 72  65 73 73 3e  3c 2f 77 73    wsa:Address></ws
+0290: 61 3a 45 6e  64 70 6f 69  6e 74 52 65  66 65 72 65    a:EndpointRefere
+02a0: 6e 63 65 3e  3c 2f 77 73  64 3a 52 65  73 6f 6c 76    nce></wsd:Resolv
+02b0: 65 3e 3c 2f  73 6f 61 70  3a 42 6f 64  79 3e 3c 2f    e></soap:Body></
+02c0: 73 6f 61 70  3a 45 6e 76  65 6c 6f 70  65 3e*         soap:Envelope>  
+
+
+2022-05-19 12:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Temp_00004_20220519124959.pcap

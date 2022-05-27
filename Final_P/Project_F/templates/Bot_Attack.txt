@@ -1,0 +1,11 @@
+Event_Name : 
+Botnet Attack
+
+Mostly the traffic is generated from SOURCEE_IPP with PERCENTAGEE % is anomaly in predicted traffic.
+Description : 
+Cyber-Attack in which the attack infected the machines used for scanning the internet consumed by IoT devices. 
+
+Recommnded_Mitigation : 
+1- Always update your software.
+2- Configuring the local firewall.
+3- Always use antivirus to scan anything before opening.

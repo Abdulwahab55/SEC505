@@ -1,0 +1,12 @@
+Event_Name : 
+Port Scan Attack
+
+Mostly the traffic is generated from SOURCEE_IPP with PERCENTAGEE % is anomaly in predicted traffic.
+
+Description : 
+Cyber-Attack in which hackers use to discover open doors or weak points in a network. 
+
+Recommnded_Mitigation : 
+1- Configuring the local firewall.
+2- Scan network ports regularly
+3- Always use antivirus to scan anything before opening.

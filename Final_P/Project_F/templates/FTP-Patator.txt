@@ -1,0 +1,13 @@
+Event_Catagory : 
+Brute force against SSH and FTP
+
+Mostly the traffic is generated from SOURCEE_IPP with PERCENTAGEE % is anomaly in predicted traffic.
+
+Description : 
+Patator is a multi-purpose brute-forcer. A brute force attack is like that. It's a way of cracking passwords by guessing.
+
+Recommnded_Mitigation : 
+1- Use Strong Passwords.
+2- Limit Login Attempts.
+3- Use Two-Factor Authentication.
+4- Filter the SSH port on your local firewall.

@@ -1,0 +1,494 @@
+2022-05-24 06:00:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:00:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:00:15 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2022-05-24 06:01:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:01:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:01:15 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:01:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:02:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:02:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:02:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:02:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:03:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:03:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:03:42 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:03:42 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:04:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:06:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:06:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:06:08 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:06:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:07:22 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:07:22 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:07:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:07:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:08:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:08:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:08:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:08:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:09:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:09:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:09:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:09:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:11:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:11:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:11:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:11:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:39:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:39:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:39:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:40:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 56 3e 31* 86 dd 60 0a    33......)V>1..`.
+0010: 63 79 00 35  11 ff fe 80  00 00 00 00  00 00 2d cc    cy.5..........-.
+0020: 3a 31 e5 8f  68 82 ff 02  00 00 00 00  00 00 00 00    :1..h...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  3b 8e 00 00    ...........5;...
+0040: 00 00 00 02  00 00 00 00  00 00 04 5f  69 70 70 04    ..........._ipp.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 05    _tcp.local......
+0060: 5f 69 70 70  73 c0 11 00  0c 00 01*                   _ipps......     
+
+
+2022-05-24 06:40:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:41:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:41:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:41:13 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:41:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 56 3e 31* 86 dd 60 05    33......)V>1..`.
+0010: 1d 5c 00 08  3a ff fe 80  00 00 00 00  00 00 2d cc    .\..:.........-.
+0020: 3a 31 e5 8f  68 82 ff 02  00 00 00 00  00 00 00 00    :1..h...........
+0030: 00 00 00 00  00 02 85 00  c7 27 00 00  00 00*         .........'....  
+
+
+2022-05-24 06:41:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:42:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:42:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:42:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:42:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:43:39 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:43:39 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:43:39 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:43:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:44:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:44:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:44:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:44:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:46:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:46:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:46:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:46:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:47:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:47:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:47:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:47:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1459 flow
+2022-05-24 06:47:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1459 flow
+2022-05-24 06:47:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:48:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:48:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:48:51 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:48:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:50:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:50:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:50:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:50:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 db fe cf* 86 dd 60 00    33......).....`.
+0010: 90 5e 00 35  11 ff fe 80  00 00 00 00  00 00 28 11    .^.5..........(.
+0020: 77 d1 ff 78  3c c9 ff 02  00 00 00 00  00 00 00 00    w..x<...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  15 79 00 00    ...........5.y..
+0040: 00 00 00 02  00 00 00 00  00 00 04 5f  69 70 70 04    ..........._ipp.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 05    _tcp.local......
+0060: 5f 69 70 70  73 c0 11 00  0c 00 01*                   _ipps......     
+
+
+2022-05-24 06:50:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:51:17 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:51:17 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:51:17 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:51:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:52:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:52:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:52:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:52:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:53:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:53:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:53:44 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:53:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:54:57 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:54:57 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:54:57 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2022-05-24 06:54:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:56:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:56:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:56:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 06:56:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:56:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:56:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:56:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:56:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:58:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:58:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:58:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-24 06:58:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 06:59:17 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 06:59:17 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 06:59:17 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 06:59:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:21:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:21:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:21:42 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 07:21:42 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:22:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:22:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:22:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:22:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 44 fe 59* 86 dd 60 0a    33......)D.Y..`.
+0010: 94 c4 00 08  3a ff fe 80  00 00 00 00  00 00 cb 4a    ....:..........J
+0020: 36 6f 5b ea  0d 85 ff 02  00 00 00 00  00 00 00 00    6o[.............
+0030: 00 00 00 00  00 02 85 00  12 0e 00 00  00 00*         ..............  
+
+
+2022-05-24 07:22:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:23:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:23:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:23:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:23:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:26:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:26:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:26:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:26:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:27:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:27:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:27:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 07:27:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:28:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:28:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:28:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:30:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:30:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:30:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:30:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:31:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:31:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:31:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-24 07:31:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 07:32:33 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 07:32:33 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 07:32:33 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 db fe cf* 86 dd 60 07    33......).....`.
+0010: a2 fc 00 08  3a ff fe 80  00 00 00 00  00 00 28 11    ....:.........(.
+0020: 77 d1 ff 78  3c c9 ff 02  00 00 00 00  00 00 00 00    w..x<...........
+0030: 00 00 00 00  00 02 85 00  a1 12 00 00  00 00*         ..............  
+
+
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-24 07:32:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 11:37:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 11:37:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 11:37:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 31 d5 39* 86 dd 60 05    33......)1.9..`.
+0010: 58 27 00 95  11 ff fe 80  00 00 00 00  00 00 02 0c    X'..............
+0020: 29 ff fe 31  d5 39 ff 02  00 00 00 00  00 00 00 00    )..1.9..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 95  f0 ba 00 00    ................
+0040: 00 00 00 09  00 00 00 00  00 00 05 5f  69 70 70 73    ..........._ipps
+0050: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 0c 00 01    ._tcp.local.....
+0060: 04 5f 73 6d  62 c0 12 00  0c 00 01 04  5f 6e 66 73    ._smb......._nfs
+0070: c0 12 00 0c  00 01 0b 5f  61 66 70 6f  76 65 72 74    ......._afpovert
+0080: 63 70 c0 12  00 0c 00 01  09 5f 73 66  74 70 2d 73    cp......._sftp-s
+0090: 73 68 c0 12  00 0c 00 01  08 5f 77 65  62 64 61 76    sh......._webdav
+00a0: 73 c0 12 00  0c 00 01 07  5f 77 65 62  64 61 76 c0    s......._webdav.
+00b0: 12 00 0c 00  01 04 5f 66  74 70 c0 12  00 0c 00 01    ......_ftp......
+00c0: 04 5f 69 70  70 c0 12 00  0c 00 01*                   ._ipp......     
+
+
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 db fe cf* 86 dd 60 00    33......).....`.
+0010: 90 5e 00 86  11 ff fe 80  00 00 00 00  00 00 28 11    .^............(.
+0020: 77 d1 ff 78  3c c9 ff 02  00 00 00 00  00 00 00 00    w..x<...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 86  f7 ea 00 00    ................
+0040: 84 00 00 00  00 04 00 00  00 00 04 5f  73 6d 62 04    ..........._smb.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 00    _tcp.local......
+0060: 00 11 94 00  08 05 4c 49  4e 55 58 c0  0c c0 27 00    ......LINUX...'.
+0070: 10 80 01 00  00 11 94 00  01 00 c0 27  00 21 80 01    ...........'.!..
+0080: 00 00 00 78  00 1a 00 00  00 00 01 bd  11 6c 69 6e    ...x.........lin
+0090: 75 78 6c 2d  56 69 72 74  75 61 6c 42  6f 78 c0 16    uxl-VirtualBox..
+00a0: c0 4e 00 1c  80 01 00 00  00 78 00 10  fe 80 00 00    .N.......x......
+00b0: 00 00 00 00  28 11 77 d1  ff 78 3c c9*                ....(.w..x<.    
+
+
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2022-05-24 11:37:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-24 11:39:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-24 11:39:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-24 11:39:13 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-24 11:39:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap

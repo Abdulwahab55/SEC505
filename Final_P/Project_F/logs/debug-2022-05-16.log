@@ -1,0 +1,56 @@
+2022-05-16 19:12:32 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2022-05-16 19:12:32 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:36 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:12:56 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2022-05-16 19:12:56 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:02 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:04 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:04 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:07 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:07 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:07 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:13:07 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2022-05-16 19:15:15 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2022-05-16 19:15:55 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2022-05-16 19:15:55 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:15:56 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2022-05-16 19:16:17 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2022-05-16 19:16:22 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2022-05-16 19:16:22 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:16:24 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2022-05-16 19:16:46 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2022-05-16 19:16:46 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:17:06 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2022-05-16 19:17:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:17:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../dd.csv
+2022-05-16 19:17:38 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-16 19:17:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:17:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    No such file or directory
+2022-05-16 19:17:38 DEBUG swing.common.SwingUtils    ../../dd.csv/Port_scan.pcap_Flow.csv (No such file or directory)
+2022-05-16 19:18:14 INFO  cic.cs.unb.ca.ifm.Cmd    Please select output folder!
+2022-05-16 19:18:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:18:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../
+2022-05-16 19:18:23 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-16 19:18:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:21:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../SEC 505/Pcap Files/ping_sweep.pcap
+2022-05-16 19:21:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../
+2022-05-16 19:21:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-16 19:21:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../SEC 505/Pcap Files/ping_sweep.pcap

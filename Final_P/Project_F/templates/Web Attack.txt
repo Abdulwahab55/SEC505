@@ -1,0 +1,12 @@
+Event_Name : 
+Web Attack
+
+Mostly the traffic is generated from SOURCEE_IPP with PERCENTAGEE % is anomaly in predicted traffic.
+
+Description : 
+Cyber-Attack in which any attempt by a malicious actor to compromise the security of a Web-based application. 
+
+Recommnded_Mitigation : 
+1- Configuring the local firewall.
+2- Always use antivirus to scan anything before opening.
+3- Least privileges om the account used.

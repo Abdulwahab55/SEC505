@@ -1,0 +1,842 @@
+2021-09-27 14:32:31 - Pcap is listening...
+2021-09-27 14:35:48 - Pcap stop listening
+2021-09-27 14:35:48 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:42:50 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:49:50 - Pcap is listening...
+2021-09-27 14:52:55 - Pcap stop listening
+2021-09-27 14:52:55 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:53:05 - Pcap is listening...
+2021-09-27 14:54:31 - Pcap stop listening
+2021-09-27 14:54:31 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:56:26 - Pcap is listening...
+2021-09-27 16:01:14 - Pcap stop listening
+2021-09-27 16:01:14 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-29 19:01:19 - Pcap is listening...
+2021-09-29 19:04:20 - Pcap stop listening
+2021-09-29 19:04:20 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-09-29 19:07:47 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-12-19 20:29:20 - Pcap is listening...
+2021-12-19 20:34:17 - Pcap stop listening
+2021-12-19 20:34:17 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2021-12-19 20:40:47 - Pcap is listening...
+2021-12-19 20:41:21 - Pcap stop listening
+2021-12-19 20:41:22 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2022-05-16 19:15:15 - Pcap is listening...
+2022-05-16 19:15:55 - Pcap stop listening
+2022-05-16 19:15:55 - path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:15:56 - Pcap is listening...
+2022-05-16 19:16:22 - Pcap stop listening
+2022-05-16 19:16:22 - path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:16:24 - Pcap is listening...
+2022-05-16 19:16:46 - Pcap stop listening
+2022-05-16 19:16:46 - path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-16_Flow.csv
+2022-05-16 19:17:06 - Please select pcap!
+2022-05-16 19:17:38 - You select: ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:17:38 - Out folder: ../../dd.csv
+2022-05-16 19:17:38 - CICFlowMeter received 1 pcap file
+2022-05-16 19:18:14 - Please select output folder!
+2022-05-16 19:18:23 - You select: ../../SEC 505/Pcap Files/Port_scan.pcap
+2022-05-16 19:18:23 - Out folder: ../../
+2022-05-16 19:18:23 - CICFlowMeter received 1 pcap file
+2022-05-16 19:21:52 - You select: ../../SEC 505/Pcap Files/ping_sweep.pcap
+2022-05-16 19:21:52 - Out folder: ../../
+2022-05-16 19:21:52 - CICFlowMeter received 1 pcap file
+2022-05-17 16:44:44 - The pcap file or folder does not exist! -> -h
+2022-05-17 16:45:40 - Pcap is listening...
+2022-05-19 12:50:11 - Please select pcap!
+2022-05-19 12:50:36 - You select: /root/Temp_00001_20220519124658.pcap
+2022-05-19 12:50:36 - Out folder: /root/
+2022-05-19 12:50:36 - CICFlowMeter received 1 pcap file
+2022-05-19 12:51:21 - You select: /root/Temp_00003_20220519124859.pcap
+2022-05-19 12:51:21 - Out folder: /root/
+2022-05-19 12:51:21 - CICFlowMeter received 1 pcap file
+2022-05-19 12:51:29 - The pcap file or folder does not exist! -> /root/Temp_00004_20220519124859.pcap
+2022-05-19 12:51:35 - You select: /root/Temp_00004_20220519124959.pcap
+2022-05-19 12:51:35 - Out folder: /root/
+2022-05-19 12:51:35 - CICFlowMeter received 1 pcap file
+2022-05-20 08:12:45 - Pcap is listening...
+2022-05-20 08:12:50 - Pcap stop listening
+2022-05-20 08:12:50 - path:/home/kali/Desktop/CICFlowMeter-4.0/bin/data/daily/2022-05-20_Flow.csv
+2022-05-20 08:15:09 - The pcap file or folder does not exist! -> SEC 505/Pcap Files/anomal_traffic.pcap
+2022-05-20 08:15:59 - You select: /home/kali/Desktop/SEC 505/Pcap Files/anomal_traffic.pcap
+2022-05-20 08:15:59 - Out folder: /home/kali/Desktop/SEC 505/Pcap Files/res
+2022-05-20 08:15:59 - CICFlowMeter received 1 pcap file
+2022-05-20 08:21:27 - You select: /home/kali/Desktop/SEC 505/Pcap Files/anomal_traffic.pcap
+2022-05-20 08:21:27 - Out folder: /home/kali/Desktop/SEC 505/Pcap Files/res
+2022-05-20 08:21:27 - CICFlowMeter received 1 pcap file
+2022-05-20 08:23:20 - You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:23:20 - Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:23:20 - CICFlowMeter received 1 pcap file
+2022-05-20 08:26:34 - You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:26:34 - Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:26:34 - CICFlowMeter received 1 pcap file
+2022-05-20 08:31:30 - You select: /root/Desktop/Project_F/Network_traffic/Port_scan.pcap_Flow.csv
+2022-05-20 08:31:30 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:31:30 - Please select pcap file!
+2022-05-20 08:32:12 - You select: /root/Desktop/Project_F/Network_traffic/captured_00001_20220520083129.pcap
+2022-05-20 08:32:12 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:32:12 - CICFlowMeter received 1 pcap file
+2022-05-20 08:32:17 - You select: /root/Desktop/Project_F/Network_traffic/captured_00001_20220520083211.pcap
+2022-05-20 08:32:17 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:32:18 - CICFlowMeter received 1 pcap file
+2022-05-20 08:32:23 - You select: /root/Desktop/Project_F/Network_traffic/captured_00001_20220520083105.pcap
+2022-05-20 08:32:23 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:32:23 - CICFlowMeter received 1 pcap file
+2022-05-20 08:32:34 - You select: /root/Desktop/Project_F/Network_traffic/captured_00002_20220520083232.pcap
+2022-05-20 08:32:34 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:32:34 - CICFlowMeter received 1 pcap file
+2022-05-20 08:32:54 - You select: /root/Desktop/Project_F/Network_traffic/captured_00003_20220520083252.pcap
+2022-05-20 08:32:54 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:32:55 - CICFlowMeter received 1 pcap file
+2022-05-20 08:33:58 - You select: /root/Desktop/Project_F/Network_traffic/captured_00001_20220520083348.pcap
+2022-05-20 08:33:58 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:33:58 - CICFlowMeter received 1 pcap file
+2022-05-20 08:34:08 - You select: /root/Desktop/Project_F/Network_traffic/captured_00002_20220520083408.pcap
+2022-05-20 08:34:08 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:34:09 - CICFlowMeter received 1 pcap file
+2022-05-20 08:34:29 - You select: /root/Desktop/Project_F/Network_traffic/captured_00003_20220520083428.pcap
+2022-05-20 08:34:29 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:34:29 - CICFlowMeter received 1 pcap file
+2022-05-20 08:34:50 - You select: /root/Desktop/Project_F/Network_traffic/captured_00004_20220520083448.pcap
+2022-05-20 08:34:50 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:34:50 - CICFlowMeter received 1 pcap file
+2022-05-20 08:35:10 - You select: /root/Desktop/Project_F/Network_traffic/captured_00005_20220520083508.pcap
+2022-05-20 08:35:10 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:35:11 - CICFlowMeter received 1 pcap file
+2022-05-20 08:51:47 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 08:51:47 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:51:47 - CICFlowMeter received 1 pcap file
+2022-05-20 08:52:41 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 08:52:41 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:52:41 - CICFlowMeter received 1 pcap file
+2022-05-20 08:56:39 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 08:56:39 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:56:39 - CICFlowMeter received 1 pcap file
+2022-05-20 08:58:50 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 08:58:50 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 08:58:50 - CICFlowMeter received 1 pcap file
+2022-05-20 09:37:56 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 09:37:56 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 09:37:56 - CICFlowMeter received 1 pcap file
+2022-05-20 09:38:09 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 09:38:09 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 09:38:10 - CICFlowMeter received 1 pcap file
+2022-05-20 10:11:26 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:11:26 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:11:26 - CICFlowMeter received 1 pcap file
+2022-05-20 10:12:29 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:12:29 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:12:29 - CICFlowMeter received 1 pcap file
+2022-05-20 10:15:16 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:15:16 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:15:17 - CICFlowMeter received 1 pcap file
+2022-05-20 10:16:51 - You select: captured_traffic/Port_scan.pcap
+2022-05-20 10:16:51 - Out folder: .
+2022-05-20 10:16:51 - CICFlowMeter received 1 pcap file
+2022-05-20 10:20:37 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:20:37 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:20:37 - CICFlowMeter received 1 pcap file
+2022-05-20 10:21:40 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:21:40 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:21:40 - CICFlowMeter received 1 pcap file
+2022-05-20 10:22:42 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:22:42 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:22:42 - CICFlowMeter received 1 pcap file
+2022-05-20 10:28:15 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:28:15 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:28:15 - CICFlowMeter received 1 pcap file
+2022-05-20 10:28:32 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:28:32 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:28:32 - CICFlowMeter received 1 pcap file
+2022-05-20 10:30:53 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:30:53 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:30:54 - CICFlowMeter received 1 pcap file
+2022-05-20 10:31:56 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:31:56 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:31:57 - CICFlowMeter received 1 pcap file
+2022-05-20 10:32:59 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:32:59 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:32:59 - CICFlowMeter received 1 pcap file
+2022-05-20 10:34:02 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:34:02 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:34:02 - CICFlowMeter received 1 pcap file
+2022-05-20 10:35:04 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:35:04 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:35:04 - CICFlowMeter received 1 pcap file
+2022-05-20 10:35:59 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:35:59 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:35:59 - CICFlowMeter received 1 pcap file
+2022-05-20 10:36:01 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:36:01 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:36:01 - CICFlowMeter received 1 pcap file
+2022-05-20 10:43:15 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:43:15 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:43:15 - CICFlowMeter received 1 pcap file
+2022-05-20 10:44:22 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:44:22 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:44:22 - CICFlowMeter received 1 pcap file
+2022-05-20 10:45:28 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:45:28 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:45:28 - CICFlowMeter received 1 pcap file
+2022-05-20 10:46:34 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:46:34 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:46:34 - CICFlowMeter received 1 pcap file
+2022-05-20 10:47:40 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:47:40 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:47:40 - CICFlowMeter received 1 pcap file
+2022-05-20 10:48:46 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:48:46 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:48:46 - CICFlowMeter received 1 pcap file
+2022-05-20 10:49:53 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:49:53 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:49:53 - CICFlowMeter received 1 pcap file
+2022-05-20 10:51:00 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:51:00 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:51:00 - CICFlowMeter received 1 pcap file
+2022-05-20 10:52:06 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:52:06 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:52:06 - CICFlowMeter received 1 pcap file
+2022-05-20 10:53:13 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:53:13 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:53:13 - CICFlowMeter received 1 pcap file
+2022-05-20 10:54:19 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:54:19 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:54:19 - CICFlowMeter received 1 pcap file
+2022-05-20 10:55:26 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:55:26 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:55:26 - CICFlowMeter received 1 pcap file
+2022-05-20 10:56:33 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:56:33 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:56:33 - CICFlowMeter received 1 pcap file
+2022-05-20 10:57:07 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 10:57:07 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 10:57:07 - CICFlowMeter received 1 pcap file
+2022-05-20 13:39:17 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:39:17 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:39:17 - CICFlowMeter received 1 pcap file
+2022-05-20 13:39:56 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:39:56 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:39:57 - CICFlowMeter received 1 pcap file
+2022-05-20 13:40:58 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:40:58 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:40:58 - CICFlowMeter received 1 pcap file
+2022-05-20 13:41:01 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:41:01 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:41:02 - CICFlowMeter received 1 pcap file
+2022-05-20 13:41:03 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:41:03 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:41:03 - CICFlowMeter received 1 pcap file
+2022-05-20 13:43:40 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:43:40 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:43:40 - CICFlowMeter received 1 pcap file
+2022-05-20 13:44:41 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:44:41 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:44:41 - CICFlowMeter received 1 pcap file
+2022-05-20 13:52:27 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:52:27 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:52:27 - CICFlowMeter received 1 pcap file
+2022-05-20 13:53:29 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:53:29 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:53:29 - CICFlowMeter received 1 pcap file
+2022-05-20 13:53:39 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 13:53:39 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 13:53:39 - CICFlowMeter received 1 pcap file
+2022-05-20 14:23:51 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:23:51 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:23:51 - CICFlowMeter received 1 pcap file
+2022-05-20 14:25:52 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:25:52 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:25:52 - CICFlowMeter received 1 pcap file
+2022-05-20 14:30:57 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:30:57 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:30:57 - CICFlowMeter received 1 pcap file
+2022-05-20 14:34:02 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:34:02 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:34:02 - CICFlowMeter received 1 pcap file
+2022-05-20 14:37:41 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:37:41 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:37:41 - CICFlowMeter received 1 pcap file
+2022-05-20 14:38:32 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:38:32 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:38:32 - CICFlowMeter received 1 pcap file
+2022-05-20 14:40:21 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:40:21 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:40:22 - CICFlowMeter received 1 pcap file
+2022-05-20 14:41:26 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:41:26 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:41:26 - CICFlowMeter received 1 pcap file
+2022-05-20 14:42:29 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:42:29 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:42:30 - CICFlowMeter received 1 pcap file
+2022-05-20 14:42:47 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:42:47 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:42:47 - CICFlowMeter received 1 pcap file
+2022-05-20 14:44:10 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:44:10 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:44:10 - CICFlowMeter received 1 pcap file
+2022-05-20 14:45:02 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:45:02 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:45:03 - CICFlowMeter received 1 pcap file
+2022-05-20 14:47:13 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:47:13 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:47:13 - CICFlowMeter received 1 pcap file
+2022-05-20 14:47:49 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:47:49 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:47:49 - CICFlowMeter received 1 pcap file
+2022-05-20 14:47:53 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:47:53 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:47:53 - CICFlowMeter received 1 pcap file
+2022-05-20 14:47:55 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:47:55 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:47:55 - CICFlowMeter received 1 pcap file
+2022-05-20 14:52:21 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:52:21 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:52:22 - CICFlowMeter received 1 pcap file
+2022-05-20 14:54:09 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:54:09 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:54:09 - CICFlowMeter received 1 pcap file
+2022-05-20 14:55:14 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:55:14 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:55:14 - CICFlowMeter received 1 pcap file
+2022-05-20 14:56:18 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:56:18 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:56:18 - CICFlowMeter received 1 pcap file
+2022-05-20 14:57:23 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 14:57:23 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 14:57:23 - CICFlowMeter received 1 pcap file
+2022-05-20 15:17:28 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:17:28 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:17:28 - CICFlowMeter received 1 pcap file
+2022-05-20 15:18:32 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:18:32 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:18:32 - CICFlowMeter received 1 pcap file
+2022-05-20 15:19:35 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:19:35 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:19:36 - CICFlowMeter received 1 pcap file
+2022-05-20 15:20:39 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:20:39 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:20:39 - CICFlowMeter received 1 pcap file
+2022-05-20 15:21:31 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:21:31 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:21:32 - CICFlowMeter received 1 pcap file
+2022-05-20 15:25:48 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:25:48 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:25:49 - CICFlowMeter received 1 pcap file
+2022-05-20 15:26:52 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:26:52 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:26:52 - CICFlowMeter received 1 pcap file
+2022-05-20 15:27:56 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:27:56 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:27:56 - CICFlowMeter received 1 pcap file
+2022-05-20 15:28:23 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:28:23 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:28:23 - CICFlowMeter received 1 pcap file
+2022-05-20 15:30:34 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:30:34 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:30:34 - CICFlowMeter received 1 pcap file
+2022-05-20 15:31:38 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:31:38 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:31:38 - CICFlowMeter received 1 pcap file
+2022-05-20 15:32:37 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:32:37 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:32:37 - CICFlowMeter received 1 pcap file
+2022-05-20 15:34:16 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:34:16 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:34:16 - CICFlowMeter received 1 pcap file
+2022-05-20 15:35:20 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:35:20 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:35:20 - CICFlowMeter received 1 pcap file
+2022-05-20 15:36:24 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:36:24 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:36:24 - CICFlowMeter received 1 pcap file
+2022-05-20 15:37:03 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-20 15:37:03 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-20 15:37:03 - CICFlowMeter received 1 pcap file
+2022-05-22 15:48:25 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:48:25 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:48:26 - CICFlowMeter received 1 pcap file
+2022-05-22 15:48:59 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:48:59 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:49:01 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:49:01 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:52:22 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:52:22 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:52:22 - CICFlowMeter received 1 pcap file
+2022-05-22 15:57:34 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:57:34 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:57:34 - CICFlowMeter received 1 pcap file
+2022-05-22 15:58:43 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:58:43 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:58:43 - CICFlowMeter received 1 pcap file
+2022-05-22 15:59:50 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:59:50 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:59:51 - Please select pcap file!
+2022-05-22 16:00:52 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:00:52 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:00:52 - CICFlowMeter received 1 pcap file
+2022-05-22 16:01:58 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:01:58 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:01:59 - Please select pcap file!
+2022-05-22 16:03:00 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:00 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:03:00 - Please select pcap file!
+2022-05-22 16:03:14 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:14 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:03:14 - Please select pcap file!
+2022-05-22 16:03:18 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:18 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:24:21 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:24:21 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:24:22 - CICFlowMeter received 1 pcap file
+2022-05-22 17:10:05 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:05 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 17:10:05 - CICFlowMeter received 1 pcap file
+2022-05-22 17:10:33 - You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:33 - Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 17:10:33 - CICFlowMeter received 1 pcap file
+2022-05-22 18:26:13 - You select: Network_traffic/captured.pcap
+2022-05-22 18:26:13 - Out folder: flow_data/
+2022-05-22 18:26:13 - CICFlowMeter received 1 pcap file
+2022-05-22 18:26:57 - You select: Network_traffic/captured.pcap
+2022-05-22 18:26:57 - Out folder: flow_data/
+2022-05-22 18:26:57 - CICFlowMeter received 1 pcap file
+2022-05-22 19:09:20 - You select: Network_traffic/captured.pcap
+2022-05-22 19:09:20 - Out folder: flow_data/
+2022-05-22 19:09:21 - CICFlowMeter received 1 pcap file
+2022-05-22 19:10:31 - You select: Network_traffic/captured.pcap
+2022-05-22 19:10:31 - Out folder: flow_data/
+2022-05-22 19:10:31 - CICFlowMeter received 1 pcap file
+2022-05-22 19:14:40 - You select: Network_traffic/captured.pcap
+2022-05-22 19:14:40 - Out folder: flow_data/
+2022-05-22 19:14:41 - CICFlowMeter received 1 pcap file
+2022-05-22 19:15:51 - You select: Network_traffic/captured.pcap
+2022-05-22 19:15:51 - Out folder: flow_data/
+2022-05-22 19:15:51 - CICFlowMeter received 1 pcap file
+2022-05-22 19:24:26 - You select: Network_traffic/captured.pcap
+2022-05-22 19:24:26 - Out folder: flow_data/
+2022-05-22 19:24:26 - CICFlowMeter received 1 pcap file
+2022-05-22 19:25:36 - You select: Network_traffic/captured.pcap
+2022-05-22 19:25:36 - Out folder: flow_data/
+2022-05-22 19:25:37 - CICFlowMeter received 1 pcap file
+2022-05-22 19:46:28 - You select: Network_traffic/captured.pcap
+2022-05-22 19:46:28 - Out folder: flow_data/
+2022-05-22 19:46:28 - CICFlowMeter received 1 pcap file
+2022-05-22 19:49:02 - You select: Network_traffic/captured.pcap
+2022-05-22 19:49:02 - Out folder: flow_data/
+2022-05-22 19:49:02 - CICFlowMeter received 1 pcap file
+2022-05-22 19:50:19 - You select: Network_traffic/captured.pcap
+2022-05-22 19:50:19 - Out folder: flow_data/
+2022-05-22 19:50:19 - CICFlowMeter received 1 pcap file
+2022-05-22 19:51:35 - You select: Network_traffic/captured.pcap
+2022-05-22 19:51:35 - Out folder: flow_data/
+2022-05-22 19:51:35 - CICFlowMeter received 1 pcap file
+2022-05-22 20:01:13 - You select: Network_traffic/captured.pcap
+2022-05-22 20:01:13 - Out folder: flow_data/
+2022-05-22 20:01:13 - CICFlowMeter received 1 pcap file
+2022-05-22 20:05:15 - You select: Network_traffic/captured.pcap
+2022-05-22 20:05:15 - Out folder: flow_data/
+2022-05-22 20:05:15 - CICFlowMeter received 1 pcap file
+2022-05-22 20:06:34 - You select: Network_traffic/captured.pcap
+2022-05-22 20:06:34 - Out folder: flow_data/
+2022-05-22 20:06:34 - CICFlowMeter received 1 pcap file
+2022-05-22 20:07:52 - You select: Network_traffic/captured.pcap
+2022-05-22 20:07:52 - Out folder: flow_data/
+2022-05-22 20:07:52 - CICFlowMeter received 1 pcap file
+2022-05-22 20:09:11 - You select: Network_traffic/captured.pcap
+2022-05-22 20:09:11 - Out folder: flow_data/
+2022-05-22 20:09:11 - CICFlowMeter received 1 pcap file
+2022-05-22 20:10:30 - You select: Network_traffic/captured.pcap
+2022-05-22 20:10:30 - Out folder: flow_data/
+2022-05-22 20:10:30 - CICFlowMeter received 1 pcap file
+2022-05-22 20:12:40 - You select: Network_traffic/captured.pcap
+2022-05-22 20:12:40 - Out folder: flow_data/
+2022-05-22 20:12:40 - CICFlowMeter received 1 pcap file
+2022-05-22 20:13:24 - You select: Network_traffic/captured.pcap
+2022-05-22 20:13:24 - Out folder: flow_data/
+2022-05-22 20:13:24 - CICFlowMeter received 1 pcap file
+2022-05-23 16:09:26 - You select: Network_traffic/captured.pcap
+2022-05-23 16:09:26 - Out folder: flow_data/
+2022-05-23 16:09:26 - CICFlowMeter received 1 pcap file
+2022-05-23 16:13:24 - You select: Network_traffic/captured.pcap
+2022-05-23 16:13:24 - Out folder: flow_data/
+2022-05-23 16:13:24 - CICFlowMeter received 1 pcap file
+2022-05-23 16:16:26 - You select: Network_traffic/captured.pcap
+2022-05-23 16:16:26 - Out folder: flow_data/
+2022-05-23 16:16:26 - CICFlowMeter received 1 pcap file
+2022-05-23 16:24:23 - You select: Network_traffic/captured.pcap
+2022-05-23 16:24:23 - Out folder: flow_data/
+2022-05-23 16:24:23 - CICFlowMeter received 1 pcap file
+2022-05-23 16:29:44 - You select: Network_traffic/captured.pcap
+2022-05-23 16:29:44 - Out folder: flow_data/
+2022-05-23 16:29:44 - CICFlowMeter received 1 pcap file
+2022-05-23 16:31:02 - You select: Network_traffic/captured.pcap
+2022-05-23 16:31:02 - Out folder: flow_data/
+2022-05-23 16:31:02 - CICFlowMeter received 1 pcap file
+2022-05-23 16:32:19 - You select: Network_traffic/captured.pcap
+2022-05-23 16:32:19 - Out folder: flow_data/
+2022-05-23 16:32:19 - CICFlowMeter received 1 pcap file
+2022-05-23 16:33:36 - You select: Network_traffic/captured.pcap
+2022-05-23 16:33:36 - Out folder: flow_data/
+2022-05-23 16:33:36 - CICFlowMeter received 1 pcap file
+2022-05-23 16:34:53 - You select: Network_traffic/captured.pcap
+2022-05-23 16:34:53 - Out folder: flow_data/
+2022-05-23 16:34:53 - CICFlowMeter received 1 pcap file
+2022-05-23 16:36:10 - You select: Network_traffic/captured.pcap
+2022-05-23 16:36:10 - Out folder: flow_data/
+2022-05-23 16:36:10 - CICFlowMeter received 1 pcap file
+2022-05-23 16:37:27 - You select: Network_traffic/captured.pcap
+2022-05-23 16:37:27 - Out folder: flow_data/
+2022-05-23 16:37:28 - CICFlowMeter received 1 pcap file
+2022-05-23 16:38:45 - You select: Network_traffic/captured.pcap
+2022-05-23 16:38:45 - Out folder: flow_data/
+2022-05-23 16:38:45 - CICFlowMeter received 1 pcap file
+2022-05-23 16:40:02 - You select: Network_traffic/captured.pcap
+2022-05-23 16:40:02 - Out folder: flow_data/
+2022-05-23 16:40:02 - CICFlowMeter received 1 pcap file
+2022-05-23 16:41:19 - You select: Network_traffic/captured.pcap
+2022-05-23 16:41:19 - Out folder: flow_data/
+2022-05-23 16:41:19 - CICFlowMeter received 1 pcap file
+2022-05-23 16:42:36 - You select: Network_traffic/captured.pcap
+2022-05-23 16:42:36 - Out folder: flow_data/
+2022-05-23 16:42:36 - CICFlowMeter received 1 pcap file
+2022-05-23 16:43:53 - You select: Network_traffic/captured.pcap
+2022-05-23 16:43:53 - Out folder: flow_data/
+2022-05-23 16:43:54 - CICFlowMeter received 1 pcap file
+2022-05-23 16:45:11 - You select: Network_traffic/captured.pcap
+2022-05-23 16:45:11 - Out folder: flow_data/
+2022-05-23 16:45:11 - CICFlowMeter received 1 pcap file
+2022-05-23 16:46:28 - You select: Network_traffic/captured.pcap
+2022-05-23 16:46:28 - Out folder: flow_data/
+2022-05-23 16:46:28 - CICFlowMeter received 1 pcap file
+2022-05-23 16:47:45 - You select: Network_traffic/captured.pcap
+2022-05-23 16:47:45 - Out folder: flow_data/
+2022-05-23 16:47:46 - CICFlowMeter received 1 pcap file
+2022-05-23 16:49:03 - You select: Network_traffic/captured.pcap
+2022-05-23 16:49:03 - Out folder: flow_data/
+2022-05-23 16:49:03 - CICFlowMeter received 1 pcap file
+2022-05-23 16:50:20 - You select: Network_traffic/captured.pcap
+2022-05-23 16:50:20 - Out folder: flow_data/
+2022-05-23 16:50:20 - CICFlowMeter received 1 pcap file
+2022-05-23 16:51:37 - You select: Network_traffic/captured.pcap
+2022-05-23 16:51:37 - Out folder: flow_data/
+2022-05-23 16:51:37 - CICFlowMeter received 1 pcap file
+2022-05-23 16:52:55 - You select: Network_traffic/captured.pcap
+2022-05-23 16:52:55 - Out folder: flow_data/
+2022-05-23 16:52:55 - CICFlowMeter received 1 pcap file
+2022-05-23 16:54:12 - You select: Network_traffic/captured.pcap
+2022-05-23 16:54:12 - Out folder: flow_data/
+2022-05-23 16:54:12 - CICFlowMeter received 1 pcap file
+2022-05-23 16:55:30 - You select: Network_traffic/captured.pcap
+2022-05-23 16:55:30 - Out folder: flow_data/
+2022-05-23 16:55:30 - CICFlowMeter received 1 pcap file
+2022-05-23 17:03:15 - You select: Network_traffic/captured.pcap
+2022-05-23 17:03:15 - Out folder: flow_data/
+2022-05-23 17:03:15 - CICFlowMeter received 1 pcap file
+2022-05-23 17:08:00 - You select: Network_traffic/captured.pcap
+2022-05-23 17:08:00 - Out folder: flow_data/
+2022-05-23 17:08:00 - CICFlowMeter received 1 pcap file
+2022-05-23 17:09:17 - You select: Network_traffic/captured.pcap
+2022-05-23 17:09:17 - Out folder: flow_data/
+2022-05-23 17:09:17 - CICFlowMeter received 1 pcap file
+2022-05-23 17:10:35 - You select: Network_traffic/captured.pcap
+2022-05-23 17:10:35 - Out folder: flow_data/
+2022-05-23 17:10:35 - CICFlowMeter received 1 pcap file
+2022-05-23 17:11:52 - You select: Network_traffic/captured.pcap
+2022-05-23 17:11:52 - Out folder: flow_data/
+2022-05-23 17:11:52 - CICFlowMeter received 1 pcap file
+2022-05-23 17:13:09 - You select: Network_traffic/captured.pcap
+2022-05-23 17:13:09 - Out folder: flow_data/
+2022-05-23 17:13:09 - CICFlowMeter received 1 pcap file
+2022-05-23 17:14:26 - You select: Network_traffic/captured.pcap
+2022-05-23 17:14:26 - Out folder: flow_data/
+2022-05-23 17:14:26 - CICFlowMeter received 1 pcap file
+2022-05-23 17:15:43 - You select: Network_traffic/captured.pcap
+2022-05-23 17:15:43 - Out folder: flow_data/
+2022-05-23 17:15:43 - CICFlowMeter received 1 pcap file
+2022-05-23 17:17:01 - You select: Network_traffic/captured.pcap
+2022-05-23 17:17:01 - Out folder: flow_data/
+2022-05-23 17:17:01 - CICFlowMeter received 1 pcap file
+2022-05-23 17:17:27 - You select: Network_traffic/captured.pcap
+2022-05-23 17:17:27 - Out folder: flow_data/
+2022-05-23 17:17:27 - CICFlowMeter received 1 pcap file
+2022-05-23 17:18:33 - You select: Network_traffic/captured.pcap
+2022-05-23 17:18:33 - Out folder: flow_data/
+2022-05-23 17:18:33 - CICFlowMeter received 1 pcap file
+2022-05-23 17:22:31 - You select: Network_traffic/captured.pcap
+2022-05-23 17:22:31 - Out folder: flow_data/
+2022-05-23 17:22:31 - CICFlowMeter received 1 pcap file
+2022-05-23 17:23:47 - You select: Network_traffic/captured.pcap
+2022-05-23 17:23:47 - Out folder: flow_data/
+2022-05-23 17:23:47 - CICFlowMeter received 1 pcap file
+2022-05-23 17:51:39 - You select: ../test.pcap
+2022-05-23 17:51:39 - Out folder: ../Flow_Traffic
+2022-05-23 17:51:39 - CICFlowMeter received 1 pcap file
+2022-05-23 17:58:42 - You select: /root/Desktop/Network_Side/Captured_Traffic/captured.pcap
+2022-05-23 17:58:42 - Out folder: /root/Desktop/Network_Side/Flow_Traffic
+2022-05-23 17:58:42 - CICFlowMeter received 1 pcap file
+2022-05-23 19:08:18 - You select: Network_traffic/captured.pcap
+2022-05-23 19:08:18 - Out folder: flow_data/
+2022-05-23 19:08:19 - CICFlowMeter received 1 pcap file
+2022-05-23 19:09:35 - You select: Network_traffic/captured.pcap
+2022-05-23 19:09:35 - Out folder: flow_data/
+2022-05-23 19:09:35 - CICFlowMeter received 1 pcap file
+2022-05-23 19:10:51 - You select: Network_traffic/captured.pcap
+2022-05-23 19:10:51 - Out folder: flow_data/
+2022-05-23 19:10:51 - CICFlowMeter received 1 pcap file
+2022-05-23 19:12:07 - You select: Network_traffic/captured.pcap
+2022-05-23 19:12:07 - Out folder: flow_data/
+2022-05-23 19:12:07 - CICFlowMeter received 1 pcap file
+2022-05-23 19:13:23 - You select: Network_traffic/captured.pcap
+2022-05-23 19:13:23 - Out folder: flow_data/
+2022-05-23 19:13:24 - CICFlowMeter received 1 pcap file
+2022-05-23 19:14:37 - You select: Network_traffic/captured.pcap
+2022-05-23 19:14:37 - Out folder: flow_data/
+2022-05-23 19:14:37 - CICFlowMeter received 1 pcap file
+2022-05-23 19:15:53 - You select: Network_traffic/captured.pcap
+2022-05-23 19:15:53 - Out folder: flow_data/
+2022-05-23 19:15:53 - CICFlowMeter received 1 pcap file
+2022-05-23 19:17:09 - You select: Network_traffic/captured.pcap
+2022-05-23 19:17:09 - Out folder: flow_data/
+2022-05-23 19:17:09 - CICFlowMeter received 1 pcap file
+2022-05-23 19:18:25 - You select: Network_traffic/captured.pcap
+2022-05-23 19:18:25 - Out folder: flow_data/
+2022-05-23 19:18:25 - CICFlowMeter received 1 pcap file
+2022-05-23 19:19:41 - You select: Network_traffic/captured.pcap
+2022-05-23 19:19:41 - Out folder: flow_data/
+2022-05-23 19:19:41 - CICFlowMeter received 1 pcap file
+2022-05-23 19:20:57 - You select: Network_traffic/captured.pcap
+2022-05-23 19:20:57 - Out folder: flow_data/
+2022-05-23 19:20:57 - CICFlowMeter received 1 pcap file
+2022-05-23 19:22:13 - You select: Network_traffic/captured.pcap
+2022-05-23 19:22:13 - Out folder: flow_data/
+2022-05-23 19:22:13 - CICFlowMeter received 1 pcap file
+2022-05-23 19:23:29 - You select: Network_traffic/captured.pcap
+2022-05-23 19:23:29 - Out folder: flow_data/
+2022-05-23 19:23:29 - CICFlowMeter received 1 pcap file
+2022-05-23 19:24:46 - You select: Network_traffic/captured.pcap
+2022-05-23 19:24:46 - Out folder: flow_data/
+2022-05-23 19:24:46 - CICFlowMeter received 1 pcap file
+2022-05-23 19:25:39 - You select: Network_traffic/captured.pcap
+2022-05-23 19:25:39 - Out folder: flow_data/
+2022-05-23 19:25:39 - CICFlowMeter received 1 pcap file
+2022-05-23 19:45:57 - You select: Network_traffic/captured.pcap
+2022-05-23 19:45:57 - Out folder: flow_data/
+2022-05-23 19:45:57 - CICFlowMeter received 1 pcap file
+2022-05-23 19:47:14 - You select: Network_traffic/captured.pcap
+2022-05-23 19:47:14 - Out folder: flow_data/
+2022-05-23 19:47:14 - CICFlowMeter received 1 pcap file
+2022-05-23 19:48:30 - You select: Network_traffic/captured.pcap
+2022-05-23 19:48:30 - Out folder: flow_data/
+2022-05-23 19:48:30 - CICFlowMeter received 1 pcap file
+2022-05-23 19:49:46 - You select: Network_traffic/captured.pcap
+2022-05-23 19:49:46 - Out folder: flow_data/
+2022-05-23 19:49:46 - CICFlowMeter received 1 pcap file
+2022-05-23 19:51:02 - You select: Network_traffic/captured.pcap
+2022-05-23 19:51:02 - Out folder: flow_data/
+2022-05-23 19:51:02 - CICFlowMeter received 1 pcap file
+2022-05-23 19:52:18 - You select: Network_traffic/captured.pcap
+2022-05-23 19:52:18 - Out folder: flow_data/
+2022-05-23 19:52:18 - CICFlowMeter received 1 pcap file
+2022-05-23 19:53:34 - You select: Network_traffic/captured.pcap
+2022-05-23 19:53:34 - Out folder: flow_data/
+2022-05-23 19:53:34 - CICFlowMeter received 1 pcap file
+2022-05-23 19:54:50 - You select: Network_traffic/captured.pcap
+2022-05-23 19:54:50 - Out folder: flow_data/
+2022-05-23 19:54:50 - CICFlowMeter received 1 pcap file
+2022-05-23 19:56:06 - You select: Network_traffic/captured.pcap
+2022-05-23 19:56:06 - Out folder: flow_data/
+2022-05-23 19:56:07 - Please select pcap file!
+2022-05-23 19:57:07 - You select: Network_traffic/captured.pcap
+2022-05-23 19:57:07 - Out folder: flow_data/
+2022-05-23 19:57:07 - Please select pcap file!
+2022-05-23 19:58:08 - You select: Network_traffic/captured.pcap
+2022-05-23 19:58:08 - Out folder: flow_data/
+2022-05-23 19:58:08 - Please select pcap file!
+2022-05-23 19:59:30 - You select: Network_traffic/captured.pcap
+2022-05-23 19:59:30 - Out folder: flow_data/
+2022-05-23 19:59:31 - Please select pcap file!
+2022-05-23 20:01:24 - You select: Network_traffic/captured.pcap
+2022-05-23 20:01:24 - Out folder: flow_data
+2022-05-23 20:01:25 - Please select pcap file!
+2022-05-23 20:02:20 - You select: Network_traffic/captured.pcap
+2022-05-23 20:02:20 - Out folder: flow_data
+2022-05-23 20:02:20 - CICFlowMeter received 1 pcap file
+2022-05-23 20:03:59 - You select: Network_traffic/captured.pcap
+2022-05-23 20:03:59 - Out folder: flow_data/
+2022-05-23 20:03:59 - CICFlowMeter received 1 pcap file
+2022-05-23 20:06:07 - You select: Network_traffic/captured.pcap
+2022-05-23 20:06:07 - Out folder: flow_data/
+2022-05-23 20:06:07 - CICFlowMeter received 1 pcap file
+2022-05-23 20:07:16 - You select: Network_traffic/captured.pcap
+2022-05-23 20:07:16 - Out folder: flow_data/
+2022-05-23 20:07:16 - CICFlowMeter received 1 pcap file
+2022-05-23 20:08:25 - You select: Network_traffic/captured.pcap
+2022-05-23 20:08:25 - Out folder: flow_data/
+2022-05-23 20:08:26 - CICFlowMeter received 1 pcap file
+2022-05-23 20:09:35 - You select: Network_traffic/captured.pcap
+2022-05-23 20:09:35 - Out folder: flow_data/
+2022-05-23 20:09:35 - CICFlowMeter received 1 pcap file
+2022-05-23 20:10:44 - You select: Network_traffic/captured.pcap
+2022-05-23 20:10:44 - Out folder: flow_data/
+2022-05-23 20:10:44 - CICFlowMeter received 1 pcap file
+2022-05-23 20:13:48 - You select: Network_traffic/captured.pcap
+2022-05-23 20:13:48 - Out folder: flow_data/
+2022-05-23 20:13:48 - CICFlowMeter received 1 pcap file
+2022-05-23 20:14:57 - You select: Network_traffic/captured.pcap
+2022-05-23 20:14:57 - Out folder: flow_data/
+2022-05-23 20:14:57 - CICFlowMeter received 1 pcap file
+2022-05-23 20:16:43 - You select: Network_traffic/captured.pcap
+2022-05-23 20:16:43 - Out folder: flow_data/
+2022-05-23 20:16:43 - CICFlowMeter received 1 pcap file
+2022-05-23 20:17:53 - You select: Network_traffic/captured.pcap
+2022-05-23 20:17:53 - Out folder: flow_data/
+2022-05-23 20:17:53 - CICFlowMeter received 1 pcap file
+2022-05-23 20:18:04 - You select: Network_traffic/captured.pcap
+2022-05-23 20:18:04 - Out folder: flow_data/
+2022-05-23 20:18:04 - CICFlowMeter received 1 pcap file
+2022-05-23 20:21:25 - You select: Network_traffic/captured.pcap
+2022-05-23 20:21:25 - Out folder: flow_data/
+2022-05-23 20:21:25 - CICFlowMeter received 1 pcap file
+2022-05-23 20:22:34 - You select: Network_traffic/captured.pcap
+2022-05-23 20:22:34 - Out folder: flow_data/
+2022-05-23 20:22:34 - CICFlowMeter received 1 pcap file
+2022-05-23 20:23:43 - You select: Network_traffic/captured.pcap
+2022-05-23 20:23:43 - Out folder: flow_data/
+2022-05-23 20:23:43 - CICFlowMeter received 1 pcap file
+2022-05-23 20:25:42 - You select: Network_traffic/captured.pcap
+2022-05-23 20:25:42 - Out folder: flow_data/
+2022-05-23 20:25:42 - CICFlowMeter received 1 pcap file
+2022-05-23 20:26:51 - You select: Network_traffic/captured.pcap
+2022-05-23 20:26:51 - Out folder: flow_data/
+2022-05-23 20:26:51 - CICFlowMeter received 1 pcap file
+2022-05-23 20:28:00 - You select: Network_traffic/captured.pcap
+2022-05-23 20:28:00 - Out folder: flow_data/
+2022-05-23 20:28:00 - CICFlowMeter received 1 pcap file
+2022-05-23 20:28:33 - You select: Network_traffic/captured.pcap
+2022-05-23 20:28:33 - Out folder: flow_data
+2022-05-23 20:28:33 - CICFlowMeter received 1 pcap file
+2022-05-23 20:29:47 - You select: Network_traffic/captured.pcap
+2022-05-23 20:29:47 - Out folder: flow_data/
+2022-05-23 20:29:47 - CICFlowMeter received 1 pcap file
+2022-05-23 20:31:00 - You select: Network_traffic/captured.pcap
+2022-05-23 20:31:00 - Out folder: flow_data/
+2022-05-23 20:31:00 - CICFlowMeter received 1 pcap file
+2022-05-23 20:32:14 - You select: Network_traffic/captured.pcap
+2022-05-23 20:32:14 - Out folder: flow_data/
+2022-05-23 20:32:14 - Please select pcap file!
+2022-05-24 06:00:15 - You select: Network_traffic/captured.pcap
+2022-05-24 06:00:15 - Out folder: flow_data/
+2022-05-24 06:00:15 - Please select pcap file!
+2022-05-24 06:01:15 - You select: Network_traffic/captured.pcap
+2022-05-24 06:01:15 - Out folder: flow_data/
+2022-05-24 06:01:15 - CICFlowMeter received 1 pcap file
+2022-05-24 06:02:28 - You select: Network_traffic/captured.pcap
+2022-05-24 06:02:28 - Out folder: flow_data/
+2022-05-24 06:02:28 - CICFlowMeter received 1 pcap file
+2022-05-24 06:03:42 - You select: Network_traffic/captured.pcap
+2022-05-24 06:03:42 - Out folder: flow_data/
+2022-05-24 06:03:42 - CICFlowMeter received 1 pcap file
+2022-05-24 06:04:55 - You select: Network_traffic/captured.pcap
+2022-05-24 06:04:55 - Out folder: flow_data/
+2022-05-24 06:04:55 - CICFlowMeter received 1 pcap file
+2022-05-24 06:06:08 - You select: Network_traffic/captured.pcap
+2022-05-24 06:06:08 - Out folder: flow_data/
+2022-05-24 06:06:08 - CICFlowMeter received 1 pcap file
+2022-05-24 06:07:22 - You select: Network_traffic/captured.pcap
+2022-05-24 06:07:22 - Out folder: flow_data/
+2022-05-24 06:07:22 - CICFlowMeter received 1 pcap file
+2022-05-24 06:08:35 - You select: Network_traffic/captured.pcap
+2022-05-24 06:08:35 - Out folder: flow_data/
+2022-05-24 06:08:35 - CICFlowMeter received 1 pcap file
+2022-05-24 06:09:48 - You select: Network_traffic/captured.pcap
+2022-05-24 06:09:48 - Out folder: flow_data/
+2022-05-24 06:09:49 - CICFlowMeter received 1 pcap file
+2022-05-24 06:11:02 - You select: Network_traffic/captured.pcap
+2022-05-24 06:11:02 - Out folder: flow_data/
+2022-05-24 06:11:02 - CICFlowMeter received 1 pcap file
+2022-05-24 06:39:59 - You select: Network_traffic/captured.pcap
+2022-05-24 06:39:59 - Out folder: flow_data/
+2022-05-24 06:39:59 - CICFlowMeter received 1 pcap file
+2022-05-24 06:41:13 - You select: Network_traffic/captured.pcap
+2022-05-24 06:41:13 - Out folder: flow_data/
+2022-05-24 06:41:13 - CICFlowMeter received 1 pcap file
+2022-05-24 06:42:26 - You select: Network_traffic/captured.pcap
+2022-05-24 06:42:26 - Out folder: flow_data/
+2022-05-24 06:42:26 - CICFlowMeter received 1 pcap file
+2022-05-24 06:43:39 - You select: Network_traffic/captured.pcap
+2022-05-24 06:43:39 - Out folder: flow_data/
+2022-05-24 06:43:39 - CICFlowMeter received 1 pcap file
+2022-05-24 06:44:52 - You select: Network_traffic/captured.pcap
+2022-05-24 06:44:52 - Out folder: flow_data/
+2022-05-24 06:44:53 - CICFlowMeter received 1 pcap file
+2022-05-24 06:46:06 - You select: Network_traffic/captured.pcap
+2022-05-24 06:46:06 - Out folder: flow_data/
+2022-05-24 06:46:06 - CICFlowMeter received 1 pcap file
+2022-05-24 06:47:19 - You select: Network_traffic/captured.pcap
+2022-05-24 06:47:19 - Out folder: flow_data/
+2022-05-24 06:47:19 - CICFlowMeter received 1 pcap file
+2022-05-24 06:48:51 - You select: Network_traffic/captured.pcap
+2022-05-24 06:48:51 - Out folder: flow_data/
+2022-05-24 06:48:51 - CICFlowMeter received 1 pcap file
+2022-05-24 06:50:04 - You select: Network_traffic/captured.pcap
+2022-05-24 06:50:04 - Out folder: flow_data/
+2022-05-24 06:50:04 - CICFlowMeter received 1 pcap file
+2022-05-24 06:51:17 - You select: Network_traffic/captured.pcap
+2022-05-24 06:51:17 - Out folder: flow_data/
+2022-05-24 06:51:17 - CICFlowMeter received 1 pcap file
+2022-05-24 06:52:30 - You select: Network_traffic/captured.pcap
+2022-05-24 06:52:30 - Out folder: flow_data/
+2022-05-24 06:52:30 - CICFlowMeter received 1 pcap file
+2022-05-24 06:53:44 - You select: Network_traffic/captured.pcap
+2022-05-24 06:53:44 - Out folder: flow_data/
+2022-05-24 06:53:44 - CICFlowMeter received 1 pcap file
+2022-05-24 06:54:57 - You select: Network_traffic/captured.pcap
+2022-05-24 06:54:57 - Out folder: flow_data/
+2022-05-24 06:54:57 - CICFlowMeter received 1 pcap file
+2022-05-24 06:56:06 - You select: Network_traffic/captured.pcap
+2022-05-24 06:56:06 - Out folder: flow_data/
+2022-05-24 06:56:06 - CICFlowMeter received 1 pcap file
+2022-05-24 06:56:49 - You select: Network_traffic/captured.pcap
+2022-05-24 06:56:49 - Out folder: flow_data/
+2022-05-24 06:56:49 - CICFlowMeter received 1 pcap file
+2022-05-24 06:58:40 - You select: Network_traffic/captured.pcap
+2022-05-24 06:58:40 - Out folder: flow_data/
+2022-05-24 06:58:40 - CICFlowMeter received 1 pcap file
+2022-05-24 06:59:17 - You select: Network_traffic/captured.pcap
+2022-05-24 06:59:17 - Out folder: flow_data/
+2022-05-24 06:59:17 - CICFlowMeter received 1 pcap file
+2022-05-24 07:21:42 - You select: Network_traffic/captured.pcap
+2022-05-24 07:21:42 - Out folder: flow_data/
+2022-05-24 07:21:42 - CICFlowMeter received 1 pcap file
+2022-05-24 07:22:56 - You select: Network_traffic/captured.pcap
+2022-05-24 07:22:56 - Out folder: flow_data/
+2022-05-24 07:22:56 - CICFlowMeter received 1 pcap file
+2022-05-24 07:23:19 - You select: Network_traffic/captured.pcap
+2022-05-24 07:23:19 - Out folder: flow_data/
+2022-05-24 07:23:20 - CICFlowMeter received 1 pcap file
+2022-05-24 07:26:26 - You select: Network_traffic/captured.pcap
+2022-05-24 07:26:26 - Out folder: flow_data/
+2022-05-24 07:26:26 - CICFlowMeter received 1 pcap file
+2022-05-24 07:27:40 - You select: Network_traffic/captured.pcap
+2022-05-24 07:27:40 - Out folder: flow_data/
+2022-05-24 07:27:40 - CICFlowMeter received 1 pcap file
+2022-05-24 07:28:53 - You select: Network_traffic/captured.pcap
+2022-05-24 07:28:53 - Out folder: flow_data/
+2022-05-24 07:28:53 - CICFlowMeter received 1 pcap file
+2022-05-24 07:30:06 - You select: Network_traffic/captured.pcap
+2022-05-24 07:30:06 - Out folder: flow_data/
+2022-05-24 07:30:06 - CICFlowMeter received 1 pcap file
+2022-05-24 07:31:20 - You select: Network_traffic/captured.pcap
+2022-05-24 07:31:20 - Out folder: flow_data/
+2022-05-24 07:31:20 - CICFlowMeter received 1 pcap file
+2022-05-24 07:32:33 - You select: Network_traffic/captured.pcap
+2022-05-24 07:32:33 - Out folder: flow_data/
+2022-05-24 07:32:33 - CICFlowMeter received 1 pcap file
+2022-05-24 11:37:58 - You select: Network_traffic/captured.pcap
+2022-05-24 11:37:58 - Out folder: flow_data/
+2022-05-24 11:37:59 - CICFlowMeter received 1 pcap file
+2022-05-24 11:39:13 - You select: Network_traffic/captured.pcap
+2022-05-24 11:39:13 - Out folder: flow_data/
+2022-05-24 11:39:13 - CICFlowMeter received 1 pcap file
