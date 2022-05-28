@@ -1,13 +1,10 @@
 Event_Catagory : 
-Brute force against SSH and FTP
-
-Mostly the traffic is generated from 192.168.10.20 with 16.18% % is anomaly in predicted traffic.
+"Denial of Service Attack"
 
 Description : 
-Patator is a multi-purpose brute-forcer. A brute force attack is like that. It's a way of cracking passwords by guessing.
+Cyber-Attack in which the attacker seeks to make a machine or network resource unavailable
 
 Recommnded_Mitigation : 
-1- Use Strong Passwords.
-2- Limit Login Attempts.
-3- Use Two-Factor Authentication.
-4- Filter the SSH port on your local firewall.
+1- Blocking an IP that’s repeatedly found to be offending.
+2- Configuring local firewall on the PC.
+3- Always use antivirus to scan anything before opening.

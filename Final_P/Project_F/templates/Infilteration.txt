@@ -1,0 +1,12 @@
+Event_Catagory : 
+Infiletration
+
+Mostly the traffic is generated from SOURCEE_IPP with PERCENTAGEE % is anomaly in predicted traffic.
+
+Description : 
+Piece of malicious software that attempts to enter and/or damage a user's computer.
+
+Recommnded_Mitigation : 
+1- Always use antivirus to scan anything before opening.
+2- Enforce Least Privilege of the accounts in your home network.
+3- Use Two-Factor Authentication.

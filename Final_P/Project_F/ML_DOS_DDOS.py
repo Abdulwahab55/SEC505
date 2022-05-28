@@ -78,18 +78,18 @@ def ML_DOS(B):
     #     """)
 
         ct["Predicted_result"] = predict
-        # attack_or_not_back = []
-        # for i in ct["Predicted_result"]:
+        attack_or_not_back = []
+        for i in ct["Predicted_result"]:
     
-        #     if i == 1:
-        #         attack_or_not_back.append("Normal")
-        #     else:
-        #         attack_or_not_back.append("Anomaly") 
-        # ct["Predicted_result"] = attack_or_not_back
+            if i == 1:
+                attack_or_not_back.append("Normal")
+            else:
+                attack_or_not_back.append("Anomaly") 
+        ct["Predicted_result"] = attack_or_not_back
         ct["Predicted_result"].value_counts().plot(kind='bar', title=f'Normal and Anomaly ({j[0:-4]}) Prediction', ylabel='occurrences',
         xlabel='Prediction', figsize=(6, 5))
         # pr=precision_score(y_test, predict, average='macro')
         # print(pr)
         plt.xticks(rotation=0)
-        plt.savefig(f"/root/Desktop/Final_P/IDS/static/{j[0:-4]}.png")
+        plt.savefig(f"/root/Desktop/IDS/static/{j[0:-4]}.png")
         return [f"{j[0:-4]}",source_ip_addr,fin_df,the_percentage_of_anomaly_traffic]

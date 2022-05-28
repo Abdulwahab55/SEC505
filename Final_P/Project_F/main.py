@@ -1,7 +1,3 @@
-from ML_DoS_SL import ML_DS_SL
-from ML_DoS_SHT import ML_DS_SHT
-from ML_DoS_HL import ML_DS_HL
-from ML_DoS_GE import ML_DS_GE
 from calendar import c
 from logging import captureWarnings
 import os
@@ -15,6 +11,7 @@ from ML_PortScan import ML_PortScan
 
 from ML_SSH import ML_SSH
 from ML_Web import ML_Web
+from ML_heartbleed import ML_Heartbleed
 import time
 from datetime import datetime
 def main():
@@ -25,16 +22,26 @@ def main():
     # this main app is read the traffic from captured pcap and do anomly analysis
     # After the network traffic is been captured and converted to csv, this application is marking the data as tested first and perform IDS testing to to detect any abnormal behaviors
 
+    # list all files in Network_traffic
+    # while True:
+
+    #     files = os.listdir("flow_data")
+
+    #     if files: # check if the new file exists
+    #         captured_traffic = prepar_network_traffic(files[0])
+    #         ML(captured_traffic)
+    #         os.remove(f"flow_data/{files[0]}")
+    #     time.sleep(5)
     while True:
-        os.system("dumpcap -i eth1 -a duration:60 -w Network_traffic/captured.pcap")
+        os.system("dumpcap -i ens34 -a duration:60 -w /root/Desktop/Project_F/Network_traffic/captured.pcap")
         files = os.listdir("Network_traffic")
 
         if files: # check if the new file exists
-            os.system(f"./cfm Network_traffic/{files[0]} flow_data/") # convert pcap file into flow-traffic file using CICFlowMeter
+            os.system(f"./cfm /root/Desktop/Project_F/Network_traffic/{files[0]} /root/Desktop/Project_F/flow_data")
             os.system(f"sed -i '1d' flow_data/*")
             flow_file = os.listdir("flow_data")
             if flow_file:
-                captured_traffic = prepare_network_traffic(flow_file[0])
+                captured_traffic = prepar_network_traffic(flow_file[0])
                 ML(captured_traffic)
                 os.remove(f"flow_data/{flow_file[0]}")
             os.remove(f"Network_traffic/{files[0]}")
@@ -43,7 +50,7 @@ def main():
 
 
 
-def prepare_network_traffic(file_name):
+def prepar_network_traffic(file_name):
     
     # static variables
     live_traffic_labels = ["Flow ID","Source IP","Source Port","Destination IP","Destination Port","Protocol","Timestamp","Flow Duration","Total Fwd Packets",
@@ -62,52 +69,48 @@ def prepare_network_traffic(file_name):
     captured_traffic = captured_traffic.round(decimals=2)
     captured_traffic = captured_traffic.fillna(0)
 
-    return captured_traffic # return the new DataFrame
+    return captured_traffic
 
 def ML(captured_traffic):
     result_list = []
     fin_severe_max = ''
 
     result_list.append(ML_Bot(captured_traffic))
-    time.sleep(2)
     result_list.append(ML_SSH(captured_traffic))
-    time.sleep(2)
     result_list.append(ML_Web(captured_traffic))
-    time.sleep(2)
+    result_list.append(ML_Infiltr(captured_traffic))
     result_list.append(ML_FTP(captured_traffic))
-    time.sleep(2)
-    result_list.append(ML_DS_GE(captured_traffic))
-    time.sleep(2)
+    result_list.append(ML_DOS(captured_traffic))
     result_list.append(ML_PortScan(captured_traffic))
-    most_severe_attack = {} # this dictionary holds each attack with its predicted anomaly infection percentage
+    most_severe_attack = {}
     for i in result_list:
-        if i[-1] > 10: # check the return percentage for each attack, if its bigger than 10% save the anomaly data for further investigation.
+        if i[-1] > 0:
             most_severe_attack[i[0]] = i[-1]
             date = datetime.now().strftime('%Y_%m_%d-%I:%M:%S_%p')
             i[2].to_csv(f"Reports/anomaly_saved_traffic_{i[0]}_{date}.csv",encoding="utf-8",index=False)
     if most_severe_attack:
         fin_severe_max = max(most_severe_attack,key=most_severe_attack.get)
 
-        if int(most_severe_attack[fin_severe_max]) > 0:
-            for i in result_list:
-                if fin_severe_max in i[0]:
-                    # load the tamplate of the file
-                    file_in = open(f"templates/{fin_severe_max}.txt",'r')
-                    filedata = file_in.read()
+    if int(most_severe_attack[fin_severe_max]) > 85:
+        for i in result_list:
+            if fin_severe_max in i[0]:
+                # load the tamplate of the file
+                file_in = open(f"templates/{fin_severe_max}.txt",'r')
+                filedata = file_in.read()
 
-                    filedata = filedata.replace("SOURCEE_IPP",f"{i[1]}") # add the Source-IP of the anomaly-traffic.
-                    filedata = filedata.replace("PERCENTAGEE",f"{i[-1]}%") # add the percentage of the anomaly traffic.
+                filedata = filedata.replace("SOURCEE_IPP",f"{i[1]}") # add the Source-IP of the anomaly-traffic.
+                filedata = filedata.replace("PERCENTAGEE",f"{i[-1]}%") # add the percentage of the anomaly traffic.
 
-                    file_out = open("/root/Desktop/Final_P/IDS/static/Attack_Details.txt",'w')
-                    file_out.write(filedata)
+                file_out = open("/root/Desktop/IDS/static/Attack_Details.txt",'w')
+                file_out.write(filedata)
 
-                    file_in.close()
-                    file_out.close()
-                    print(fin_severe_max)
-                    # Set the figure of the most predicted severe anomaly traffic
-                    os.system(f"cp '/root/Desktop/Final_P/IDS/static/{fin_severe_max}.png' /root/Desktop/Final_P/IDS/static/Attack_pic.png")
+                file_in.close()
+                file_out.close()
 
-                # print(f"Most in {fin_severe_max} with {most_severe_attack[fin_severe_max]}")
+                # Set the figure of the most predicted severe anomaly traffic
+                os.system("cp /root/Desktop/IDS/static/{fin_severe_max}.png /root/Desktop/IDS/static/Attack_pic.png")
+
+            # print(f"Most in {fin_severe_max} with {most_severe_attack[fin_severe_max]}")
     
     
 main()

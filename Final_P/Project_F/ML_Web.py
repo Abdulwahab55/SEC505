@@ -4,10 +4,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 def ML_Web(B):
-    feature_list = ["Bwd Packet Length Std","Total Length of Fwd Packets","Flow Bytes/s","Flow IAT Max","Bwd Packet Length Max","Label"]
+    feature_list = ["Bwd Packet Length Std","Total Length of Fwd Packets","Flow Bytes/s","Flow IAT Max","Label"]
     df=pd.read_csv("attacks_datasets/Web Attack.csv",usecols=feature_list)
 
 
@@ -23,16 +22,16 @@ def ML_Web(B):
             attack_or_not.append(0)           
     df["Label"]=attack_or_not
 
+
     y = df["Label"] #this section separates the label and the data into two separate pieces, as Label=y Data=X 
     del df["Label"]
     feature_list.remove('Label')
     X = df[feature_list]
 
-    X_train, X_test, Y_train, y_test = train_test_split(X, y,test_size = 0.20, random_state = 2)
-
+    X_train, X_test, y_train, y_test = train_test_split(X, y,test_size = 0.20, random_state = 2)
 
     clf = RandomForestClassifier(max_depth=5, n_estimators=10, max_features=1)
-    clf.fit(X_train, Y_train)
+    clf.fit(X_train, y_train)
 
     
 
@@ -66,20 +65,19 @@ def ML_Web(B):
     # """)
 
     ct["Predicted_result"] = predict
-    # attack_or_not_back = []
-    # for i in ct["Predicted_result"]:
+    attack_or_not_back = []
+    for i in ct["Predicted_result"]:
         
-    #     if i == 1:
-    #         attack_or_not_back.append("Normal")
-    #     else:
-    #         attack_or_not_back.append("Anomaly")
-    # ct["Predicted_result"] = attack_or_not_back
+        if i == 1:
+            attack_or_not_back.append("Normal")
+        else:
+            attack_or_not_back.append("Anomaly")
+    ct["Predicted_result"] = attack_or_not_back
     ct["Predicted_result"].value_counts().plot(kind='bar', title='Normal and Anomaly (Web Attack) Prediction', ylabel='occurrences',
         xlabel='Prediction', figsize=(6, 5))
 
     plt.xticks(rotation=0)
-    plt.savefig(f"/root/Desktop/Final_P/IDS/static/Web Attack.png")
-    plt.legend(['Anomaly - 0', 'Normal - 1'])
+    plt.savefig(f"/root/Desktop/IDS/static/Web Attack.png")
     # pr=precision_score(y_test, predict, average='macro')
     # print(pr)
 

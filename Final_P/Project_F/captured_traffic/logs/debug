@@ -1,0 +1,23 @@
+2022-05-20 07:59:07 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> -h
+2022-05-20 07:59:42 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2022-05-20 08:00:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Port_scan.pcap
+2022-05-20 08:00:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../Network_traffic
+2022-05-20 08:00:01 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:18:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ./Port_scan.pcap
+2022-05-20 08:18:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:18:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:18:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ./Port_scan.pcap
+2022-05-20 08:18:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:18:29 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:18:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:18:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:18:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:19:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:19:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic/
+2022-05-20 08:19:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:19:22 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:19:22 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic/a
+2022-05-20 08:19:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-20 08:19:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/captured_traffic/Port_scan.pcap
+2022-05-20 08:19:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/Network_traffic
+2022-05-20 08:19:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
