@@ -1,23 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-
-##  CICIDS2017 csv files are required for the operation of the program.
-##  These files must be located under the "CSVs" folder in the same directory as the program.
-
-
-
-##  The purpose of this program is to clear the csv files containing CICIDS2017 data from errors.
-##  the faults observed are:
-##      1-   288602 of the entries in the file "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv" are empty / meaningless.
-##                   (e.g. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,")
-##
-##      2-  In the original csv files, while describing the Web Attack types such as Brute Force, XSS, Sql Injection, the character used is not recognized
-##                    by the Python-Pandas library and leads to the error.
-##                    this character ("–", Unicode code:8211) has been changed with another character ("-", Unicode code:45) to correct the error.
-##
-##   After the error correction, all the csv files were made into a single file (all_date.csv) to make it easier to process.
-
 import pandas as pd
 import os
 from sklearn import preprocessing
