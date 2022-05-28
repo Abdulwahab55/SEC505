@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 from sklearn.metrics import f1_score
@@ -29,8 +30,9 @@ import math
 def ML_PortScan(B):
 
 
-    feature_list = ["Fwd Packet Length Max","Fwd Packet Length Mean","Flow Duration","Total Length of Fwd Packets","Label"]
-    df=pd.read_csv("attacks_datasets/Infiltration.csv",usecols=feature_list)
+    feature_list =  ["Total Length of Fwd Packets","Flow Bytes/s","Destination Port","Flow Duration","Bwd Packet Length Std","Label"]
+    df=pd.read_csv("attacks_datasets/PortScan.csv",usecols=feature_list)
+    # df.drop("External IP",axis = 1,inplace = True)
 
 
     # perform the dataset initiation
@@ -45,18 +47,19 @@ def ML_PortScan(B):
             attack_or_not.append(0)           
     df["Label"]=attack_or_not
 
+    
 
     y = df["Label"] #this section separates the label and the data into two separate pieces, as Label=y Data=X 
     del df["Label"]
     feature_list.remove('Label')
     X = df[feature_list]
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y,test_size = 0.20, random_state = 2)
+    X_train, X_test, Y_train, y_test = train_test_split(X, y,test_size = 0.20, random_state = 2)
 
 
-    clf = RandomForestClassifier(max_depth=5, n_estimators=10, max_features=1)
+    clf = DecisionTreeClassifier(max_depth=5,criterion="entropy")
 
-    clf.fit(X_train, y_train)
+    clf.fit(X_train, Y_train)
 
 
     ct = B[feature_list]
@@ -82,20 +85,21 @@ def ML_PortScan(B):
     else:
         pass
     ct["Predicted_result"] = predict
-    attack_or_not_back = []
-    for i in ct["Predicted_result"]:
+    # attack_or_not_back = []
+    # for i in ct["Predicted_result"]:
         
-        if i == 1:
-            attack_or_not_back.append("Normal")
-        else:
-            attack_or_not_back.append("Anomaly")
-    ct["Predicted_result"] = attack_or_not_back
+    #     if i == 1:
+    #         attack_or_not_back.append("Normal")
+    #     else:
+    #         attack_or_not_back.append("Anomaly")
+    # ct["Predicted_result"] = attack_or_not_back
 
     ct["Predicted_result"].value_counts().plot(kind='bar', title='Normal and Anomaly (Port Scan) Prediction', ylabel='occurrences',
         xlabel='Prediction', figsize=(6, 5))
     # pr=precision_score(y_test, predict, average='macro')
     # print(pr)
     plt.xticks(rotation=0)
-    plt.savefig(f"/root/Desktop/IDS/static/Port_Scan.png")
+    plt.savefig(f"/root/Desktop/Final_P/IDS/static/Port_Scan.png")
+    plt.legend(['Anomaly - 0', 'Normal - 1'])
 
     return ["Port_Scan",source_ip_addr,fin_df,the_percentage_of_anomaly_traffic]

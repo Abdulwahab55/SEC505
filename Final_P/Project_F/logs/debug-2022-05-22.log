@@ -1,0 +1,1160 @@
+2022-05-22 15:48:25 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:48:25 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:48:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 15:48:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:48:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:49:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:49:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:52:22 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:52:22 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:52:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 15:52:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 08 00  27 10 0c fe* 86 dd 60 04    33......'.....`.
+0010: bc d6 00 08  3a ff fe 80  00 00 00 00  00 00 94 8c    ....:...........
+0020: 8f a6 b5 bc  3b 0b ff 02  00 00 00 00  00 00 00 00    ....;...........
+0030: 00 00 00 00  00 02 85 00  68 3c 00 00  00 00*         ........h<....  
+
+
+2022-05-22 15:52:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:57:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:57:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:57:34 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff f3  1e d2 be b8  ad c3 1e 6c* 86 dd 60 00    33.........l..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff f3  1e d2 87 00  fd fd 00 00  00 00 fe 80    ................
+0040: 00 00 00 00  00 00 10 ee  50 e2 b7 f3  1e d2 0e 01    ........P.......
+0050: 3c 9b 5f b6  7b 73*                                   <._.{s          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 be b8  ad c3 1e 6c* 86 dd 60 0b    33.........l..`.
+0010: 0f 00 00 10  3a ff fe 80  00 00 00 00  00 00 10 ee    ....:...........
+0020: 50 e2 b7 f3  1e d2 ff 02  00 00 00 00  00 00 00 00    P...............
+0030: 00 00 00 00  00 02 85 00  b8 af 00 00  00 00 01 01    ................
+0040: be b8 ad c3  1e 6c*                                   .....l          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 01 28 b4  48 27 5a d4* 86 dd 60 00    33....(.H'Z...`.
+0010: 00 00 00 58  3a ff fe 80  00 00 00 00  00 00 00 00    ...X:...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 00 00 00  00 01 86 00  c4 55 40 00  07 08 00 00    .........U@.....
+0040: 00 00 00 00  00 00 03 04  40 c0 00 03  f4 80 00 02    ........@.......
+0050: a3 00 00 00  00 00 20 01  16 a2 ca a3  a5 00 00 00    ...... .........
+0060: 00 00 00 00  00 00 19 03  00 00 ff ff  ff ff fe 80    ................
+0070: 00 00 00 00  00 00 00 00  00 00 00 00  00 01 05 01    ................
+0080: 00 00 00 00  05 c0 01 01  28 b4 48 27  5a d4*         ........(.H'Z.  
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff 31  f4 b6 be b8  ad c3 1e 6c* 86 dd 60 00    33.1.......l..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff 31  f4 b6 87 00  1d 34 00 00  00 00 20 01    ...1.....4.... .
+0040: 16 a2 ca a3  a5 00 0c 5b  0f 0c f9 31  f4 b6 0e 01    .......[...1....
+0050: 58 71 54 77  fe 02*                                   XqTw..          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff 0f  15 d9 be b8  ad c3 1e 6c* 86 dd 60 00    33.........l..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff 0f  15 d9 87 00  8b f4 00 00  00 00 20 01    .............. .
+0040: 16 a2 ca a3  a5 00 9d 93  5a 13 c3 0f  15 d9 0e 01    ........Z.......
+0050: 66 0c 7e 3f  6f 9f*                                   f.~?o.          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 08 00  27 f9 7a 7c* 86 dd 60 00    33......'.z|..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 38 f9  d3 5f 80 35* 86 dd 60 00    33....8.._.5..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 08 00  27 f9 7a 7c* 86 dd 60 00    33......'.z|..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 38 f9  d3 5f 80 35* 86 dd 60 00    33....8.._.5..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb be b8  ad c3 1e 6c* 86 dd 60 0b    33.........l..`.
+0010: 0e 00 00 89  11 ff fe 80  00 00 00 00  00 00 10 ee    ................
+0020: 50 e2 b7 f3  1e d2 ff 02  00 00 00 00  00 00 00 00    P...............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 89  f3 75 00 00    .............u..
+0040: 00 00 00 04  00 00 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 00 01 00 00  29 05 a0 00  00 11 94 00  12 00 04 00    ....)...........
+00b0: 0e 00 03 3e  ba e5 db 97  8e be b8 ad  c3 1e 6c*      ...>..........l 
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 38 f9  d3 5f 80 35* 86 dd 60 0b    33....8.._.5..`.
+0010: 07 00 01 e6  11 ff fe 80  00 00 00 00  00 00 04 a6    ................
+0020: 2b 5f 96 e4  b3 df ff 02  00 00 00 00  00 00 00 00    +_..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 01 e6  da 5d 00 00    .............]..
+0040: 84 00 00 00  00 02 00 00  00 07 1a 41  62 64 75 6c    ...........Abdul
+0050: 77 61 68 61  62 e2 80 99  73 20 4d 61  63 42 6f 6f    wahab...s MacBoo
+0060: 6b 20 50 72  6f 0c 5f 64  65 76 69 63  65 2d 69 6e    k Pro._device-in
+0070: 66 6f 04 5f  74 63 70 05  6c 6f 63 61  6c 00 00 10    fo._tcp.local...
+0080: 00 01 00 00  11 94 00 33  14 6d 6f 64  65 6c 3d 4d    .......3.model=M
+0090: 61 63 42 6f  6f 6b 50 72  6f 31 34 2c  31 0a 6f 73    acBookPro14,1.os
+00a0: 78 76 65 72  73 3d 32 30  12 65 63 6f  6c 6f 72 3d    xvers=20.ecolor=
+00b0: 31 35 37 2c  31 35 37 2c  31 36 30 0f  5f 63 6f 6d    157,157,160._com
+00c0: 70 61 6e 69  6f 6e 2d 6c  69 6e 6b c0  34 00 0c 00    panion-link.4...
+00d0: 01 00 00 11  94 00 1d 1a  41 62 64 75  6c 77 61 68    ........Abdulwah
+00e0: 61 62 e2 80  99 73 20 4d  61 63 42 6f  6f 6b 20 50    ab...s MacBook P
+00f0: 72 6f c0 7d  c0 99 00 10  80 01 00 00  11 94 00 7f    ro.}............
+0100: 07 72 70 4d  61 63 3d 30  11 72 70 48  4e 3d 32 61    .rpMac=0.rpHN=2a
+0110: 30 62 66 64  30 66 65 64  31 31 0c 72  70 46 6c 3d    0bfd0fed11.rpFl=
+0120: 30 78 32 30  30 30 30 11  72 70 48 41  3d 39 34 36    0x20000.rpHA=946
+0130: 35 38 65 64  38 64 64 38  31 0a 72 70  56 72 3d 32    58ed8dd81.rpVr=2
+0140: 36 30 2e 33  11 72 70 41  44 3d 30 36  61 63 61 30    60.3.rpAD=06aca0
+0150: 33 30 62 35  31 30 11 72  70 48 49 3d  37 62 65 32    30b510.rpHI=7be2
+0160: 36 37 31 63  33 37 39 39  16 72 70 42  41 3d 35 38    671c3799.rpBA=58
+0170: 3a 30 33 3a  38 45 3a 42  43 3a 31 31  3a 34 35 c0    :03:8E:BC:11:45.
+0180: 99 00 21 80  01 00 00 00  78 00 20 00  00 00 00 cd    ..!.....x. .....
+0190: d0 17 41 62  64 75 6c 77  61 68 61 62  73 2d 4d 61    ..Abdulwahabs-Ma
+01a0: 63 42 6f 6f  6b 2d 50 72  6f c0 39 c1  53 00 1c 80    cBook-Pro.9.S...
+01b0: 01 00 00 00  78 00 10 fe  80 00 00 00  00 00 00 04    ....x...........
+01c0: a6 2b 5f 96  e4 b3 df c1  53 00 1c 80  01 00 00 00    .+_.....S.......
+01d0: 78 00 10 20  01 16 a2 ca  a3 a5 00 10  11 a3 df b5    x.. ............
+01e0: 7c 0b 8a c1  53 00 01 80  01 00 00 00  78 00 04 c0    |...S.......x...
+01f0: a8 64 09 c0  99 00 2f 80  01 00 00 11  94 00 09 c0    .d..../.........
+0200: 99 00 05 00  00 80 00 40  c1 53 00 2f  80 01 00 00    .......@.S./....
+0210: 00 78 00 08  c1 53 00 04  40 00 00 08*                .x...S..@...    
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  0c 0c d8 8c  79 24 f8 2c* 86 dd 60 03    33......y$.,..`.
+0010: 35 c0 00 2e  11 01 20 01  16 a2 ca a3  a5 00 04 eb    5..... .........
+0020: c9 ee c8 f8  26 55 ff 05  00 00 00 00  00 00 00 00    ....&U..........
+0030: 00 00 00 00  0c 0c 27 75  27 75 00 2e  84 6e 0a 20    ......'u'u...n. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 0c  00 0c d8 8c  79 24 f8 2c* 86 dd 60 09    33......y$.,..`.
+0010: e4 f5 00 2e  11 01 fe 80  00 00 00 00  00 00 21 ff    ..............!.
+0020: 42 9f 6c 26  8a 6d ff 02  00 00 00 00  00 00 00 00    B.l&.m..........
+0030: 00 00 00 0c  00 0c 27 75  27 75 00 2e  9b 21 0a 20    ......'u'u...!. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2013 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2013 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2015 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2014 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2015 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2015 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2016 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2016 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2019 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2019 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2019 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2018 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2018 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2019 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2022 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2022 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2022 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2022 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2023 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff a3  0f 1b 28 b4  48 27 5a d4* 86 dd 60 00    33....(.H'Z...`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff a3  0f 1b 87 00  88 65 00 00  00 00 fe 80    .........e......
+0040: 00 00 00 00  00 00 0c b4  f3 56 09 a3  0f 1b 01 01    .........V......
+0050: 28 b4 48 27  5a d4*                                   (.H'Z.          
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 5a dc  47 ad 55 e7* 86 dd 60 09    33....Z.G.U...`.
+0010: 0d 00 00 91  11 ff fe 80  00 00 00 00  00 00 0c b4    ................
+0020: f3 56 09 a3  0f 1b ff 02  00 00 00 00  00 00 00 00    .V..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 91  59 bf 00 00    ............Y...
+0040: 00 00 00 05  00 00 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 80  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 80 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 80 01 08    ._homekit.7.....
+0090: 5f 61 69 72  70 6c 61 79  c0 37 00 0c  80 01 05 5f    _airplay.7....._
+00a0: 72 61 6f 70  c0 37 00 0c  80 01 00 00  29 05 a0 00    raop.7......)...
+00b0: 00 11 94 00  12 00 04 00  0e 00 87 6e  4a 85 78 22    ...........nJ.x"
+00c0: 95 5a dc 47  ad 55 e7*                                .Z.G.U.         
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 5a dc  47 ad 55 e7* 86 dd 60 09    33....Z.G.U...`.
+0010: 0d 00 00 91  11 ff fe 80  00 00 00 00  00 00 0c b4    ................
+0020: f3 56 09 a3  0f 1b ff 02  00 00 00 00  00 00 00 00    .V..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 91  da c0 00 00    ................
+0040: 00 00 00 05  00 00 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 08    ._homekit.7.....
+0090: 5f 61 69 72  70 6c 61 79  c0 37 00 0c  00 01 05 5f    _airplay.7....._
+00a0: 72 61 6f 70  c0 37 00 0c  00 01 00 00  29 05 a0 00    raop.7......)...
+00b0: 00 11 94 00  12 00 04 00  0e 00 87 6e  4a 85 78 22    ...........nJ.x"
+00c0: 95 5a dc 47  ad 55 e7*                                .Z.G.U.         
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 38 f9  d3 5f 80 35* 86 dd 60 0b    33....8.._.5..`.
+0010: 07 00 01 e6  11 ff fe 80  00 00 00 00  00 00 04 a6    ................
+0020: 2b 5f 96 e4  b3 df ff 02  00 00 00 00  00 00 00 00    +_..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 01 e6  da 5d 00 00    .............]..
+0040: 84 00 00 00  00 02 00 00  00 07 1a 41  62 64 75 6c    ...........Abdul
+0050: 77 61 68 61  62 e2 80 99  73 20 4d 61  63 42 6f 6f    wahab...s MacBoo
+0060: 6b 20 50 72  6f 0c 5f 64  65 76 69 63  65 2d 69 6e    k Pro._device-in
+0070: 66 6f 04 5f  74 63 70 05  6c 6f 63 61  6c 00 00 10    fo._tcp.local...
+0080: 00 01 00 00  11 94 00 33  14 6d 6f 64  65 6c 3d 4d    .......3.model=M
+0090: 61 63 42 6f  6f 6b 50 72  6f 31 34 2c  31 0a 6f 73    acBookPro14,1.os
+00a0: 78 76 65 72  73 3d 32 30  12 65 63 6f  6c 6f 72 3d    xvers=20.ecolor=
+00b0: 31 35 37 2c  31 35 37 2c  31 36 30 0f  5f 63 6f 6d    157,157,160._com
+00c0: 70 61 6e 69  6f 6e 2d 6c  69 6e 6b c0  34 00 0c 00    panion-link.4...
+00d0: 01 00 00 11  94 00 1d 1a  41 62 64 75  6c 77 61 68    ........Abdulwah
+00e0: 61 62 e2 80  99 73 20 4d  61 63 42 6f  6f 6b 20 50    ab...s MacBook P
+00f0: 72 6f c0 7d  c0 99 00 10  80 01 00 00  11 94 00 7f    ro.}............
+0100: 07 72 70 4d  61 63 3d 30  11 72 70 48  4e 3d 32 61    .rpMac=0.rpHN=2a
+0110: 30 62 66 64  30 66 65 64  31 31 0c 72  70 46 6c 3d    0bfd0fed11.rpFl=
+0120: 30 78 32 30  30 30 30 11  72 70 48 41  3d 39 34 36    0x20000.rpHA=946
+0130: 35 38 65 64  38 64 64 38  31 0a 72 70  56 72 3d 32    58ed8dd81.rpVr=2
+0140: 36 30 2e 33  11 72 70 41  44 3d 30 36  61 63 61 30    60.3.rpAD=06aca0
+0150: 33 30 62 35  31 30 11 72  70 48 49 3d  37 62 65 32    30b510.rpHI=7be2
+0160: 36 37 31 63  33 37 39 39  16 72 70 42  41 3d 35 38    671c3799.rpBA=58
+0170: 3a 30 33 3a  38 45 3a 42  43 3a 31 31  3a 34 35 c0    :03:8E:BC:11:45.
+0180: 99 00 21 80  01 00 00 00  78 00 20 00  00 00 00 cd    ..!.....x. .....
+0190: d0 17 41 62  64 75 6c 77  61 68 61 62  73 2d 4d 61    ..Abdulwahabs-Ma
+01a0: 63 42 6f 6f  6b 2d 50 72  6f c0 39 c1  53 00 1c 80    cBook-Pro.9.S...
+01b0: 01 00 00 00  78 00 10 fe  80 00 00 00  00 00 00 04    ....x...........
+01c0: a6 2b 5f 96  e4 b3 df c1  53 00 1c 80  01 00 00 00    .+_.....S.......
+01d0: 78 00 10 20  01 16 a2 ca  a3 a5 00 10  11 a3 df b5    x.. ............
+01e0: 7c 0b 8a c1  53 00 01 80  01 00 00 00  78 00 04 c0    |...S.......x...
+01f0: a8 64 09 c0  99 00 2f 80  01 00 00 11  94 00 09 c0    .d..../.........
+0200: 99 00 05 00  00 80 00 40  c1 53 00 2f  80 01 00 00    .......@.S./....
+0210: 00 78 00 08  c1 53 00 04  40 00 00 08*                .x...S..@...    
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb be b8  ad c3 1e 6c* 86 dd 60 0b    33.........l..`.
+0010: 0e 00 00 4e  11 ff fe 80  00 00 00 00  00 00 10 ee    ...N............
+0020: 50 e2 b7 f3  1e d2 ff 02  00 00 00 00  00 00 00 00    P...............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 4e  ea 68 00 00    ...........N.h..
+0040: 00 00 00 01  00 00 00 00  00 01 0c 5f  73 6c 65 65    ..........._slee
+0050: 70 2d 70 72  6f 78 79 04  5f 75 64 70  05 6c 6f 63    p-proxy._udp.loc
+0060: 61 6c 00 00  0c 00 01 00  00 29 05 a0  00 00 11 94    al.......)......
+0070: 00 12 00 04  00 0e 00 03  3e ba e5 db  97 8e be b8    ........>.......
+0080: ad c3 1e 6c*                                          ...l            
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 5a dc  47 ad 55 e7* 86 dd 60 09    33....Z.G.U...`.
+0010: 0d 00 00 ba  11 ff fe 80  00 00 00 00  00 00 0c b4    ................
+0020: f3 56 09 a3  0f 1b ff 02  00 00 00 00  00 00 00 00    .V..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 ba  18 08 00 00    ................
+0040: 00 00 00 05  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 08    ._homekit.7.....
+0090: 5f 61 69 72  70 6c 61 79  c0 37 00 0c  00 01 05 5f    _airplay.7....._
+00a0: 72 61 6f 70  c0 37 00 0c  00 01 c0 27  00 0c 00 01    raop.7.....'....
+00b0: 00 00 11 92  00 1d 1a 41  62 64 75 6c  77 61 68 61    .......Abdulwaha
+00c0: 62 e2 80 99  73 20 4d 61  63 42 6f 6f  6b 20 50 72    b...s MacBook Pr
+00d0: 6f c0 27 00  00 29 05 a0  00 00 11 94  00 12 00 04    o.'..)..........
+00e0: 00 0e 00 87  6e 4a 85 78  22 95 5a dc  47 ad 55 e7*   ....nJ.x".Z.G.U.
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 5a dc  47 ad 55 e7* 86 dd 60 09    33....Z.G.U...`.
+0010: 0d 00 00 ba  11 ff fe 80  00 00 00 00  00 00 0c b4    ................
+0020: f3 56 09 a3  0f 1b ff 02  00 00 00 00  00 00 00 00    .V..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 ba  18 11 00 00    ................
+0040: 00 00 00 05  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 08    ._homekit.7.....
+0090: 5f 61 69 72  70 6c 61 79  c0 37 00 0c  00 01 05 5f    _airplay.7....._
+00a0: 72 61 6f 70  c0 37 00 0c  00 01 c0 27  00 0c 00 01    raop.7.....'....
+00b0: 00 00 11 89  00 1d 1a 41  62 64 75 6c  77 61 68 61    .......Abdulwaha
+00c0: 62 e2 80 99  73 20 4d 61  63 42 6f 6f  6b 20 50 72    b...s MacBook Pr
+00d0: 6f c0 27 00  00 29 05 a0  00 00 11 94  00 12 00 04    o.'..)..........
+00e0: 00 0e 00 87  6e 4a 85 78  22 95 5a dc  47 ad 55 e7*   ....nJ.x".Z.G.U.
+
+
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2027 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2027 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2029 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2032 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2032 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2032 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2032 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2032 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2035 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2035 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2035 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2035 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2036 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2036 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2037 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2037 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2037 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2036 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2037 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2037 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2038 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2038 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2040 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2039 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2040 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2040 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2041 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2041 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2042 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2043 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2043 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2049 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2049 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2050 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2050 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2050 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2049 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2051 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2051 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2054 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2053 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2055 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2055 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2057 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2057 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2058 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2058 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2059 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2059 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2060 flow
+2022-05-22 15:57:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:58:43 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:58:43 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:58:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  0c 0c d8 8c  79 24 f8 2c* 86 dd 60 03    33......y$.,..`.
+0010: 35 c0 00 2e  11 01 20 01  16 a2 ca a3  a5 00 04 eb    5..... .........
+0020: c9 ee c8 f8  26 55 ff 05  00 00 00 00  00 00 00 00    ....&U..........
+0030: 00 00 00 00  0c 0c 27 75  27 75 00 2e  84 6e 0a 20    ......'u'u...n. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 0c  00 0c d8 8c  79 24 f8 2c* 86 dd 60 09    33......y$.,..`.
+0010: e4 f5 00 2e  11 01 fe 80  00 00 00 00  00 00 21 ff    ..............!.
+0020: 42 9f 6c 26  8a 6d ff 02  00 00 00 00  00 00 00 00    B.l&.m..........
+0030: 00 00 00 0c  00 0c 27 75  27 75 00 2e  9b 21 0a 20    ......'u'u...!. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff db  be 7c 3a 27  1f ea c1 3c* 86 dd 60 00    33...|:'..<..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff db  be 7c 87 00  2c 3b 00 00  00 00 fe 80    .....|..,;......
+0040: 00 00 00 00  00 00 0c 66  46 10 4a db  be 7c 0e 01    .......fF.J..|..
+0050: 14 19 05 8e  0d 16*                                   ......          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0f 00 00 08  3a ff fe 80  00 00 00 00  00 00 0c 66    ....:..........f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 02 85 00  21 69 00 00  00 00*         ........!i....  
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 01 28 b4  48 27 5a d4* 86 dd 60 00    33....(.H'Z...`.
+0010: 00 00 00 58  3a ff fe 80  00 00 00 00  00 00 00 00    ...X:...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 00 00 00  00 01 86 00  c4 55 40 00  07 08 00 00    .........U@.....
+0040: 00 00 00 00  00 00 03 04  40 c0 00 03  f4 80 00 02    ........@.......
+0050: a3 00 00 00  00 00 20 01  16 a2 ca a3  a5 00 00 00    ...... .........
+0060: 00 00 00 00  00 00 19 03  00 00 ff ff  ff ff fe 80    ................
+0070: 00 00 00 00  00 00 00 00  00 00 00 00  00 01 05 01    ................
+0080: 00 00 00 00  05 c0 01 01  28 b4 48 27  5a d4*         ........(.H'Z.  
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 08 00  27 f9 7a 7c* 86 dd 60 00    33......'.z|..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 38 f9  d3 5f 80 35* 86 dd 60 00    33....8.._.5..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff 75  2e e8 3a 27  1f ea c1 3c* 86 dd 60 00    33.u..:'..<..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff 75  2e e8 87 00  55 1d 00 00  00 00 20 01    ...u....U..... .
+0040: 16 a2 ca a3  a5 00 1c 0d  33 34 2f 75  2e e8 0e 01    ........34/u....
+0050: 7a 6c e0 de  38 f3*                                   zl..8.          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff 77  49 6c 3a 27  1f ea c1 3c* 86 dd 60 00    33.wIl:'..<..`.
+0010: 00 00 00 20  3a ff 00 00  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff 77  49 6c 87 00  55 65 00 00  00 00 20 01    ...wIl..Ue.... .
+0040: 16 a2 ca a3  a5 00 04 10  ae ba 9b 77  49 6c 0e 01    ...........wIl..
+0050: 0c 84 fb 69  87 72*                                   ...i.r          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 89  11 ff fe 80  00 00 00 00  00 00 0c 66    ...............f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 89  67 ac 00 00    ............g...
+0040: 00 00 00 04  00 00 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 80  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 80 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 80 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 80 01 00 00  29 05 a0 00  00 11 94 00  12 00 04 00    ....)...........
+00b0: 0e 00 05 3e  ba e5 db 97  8e 3a 27 1f  ea c1 3c*      ...>.....:'..< 
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff db  be 7c 28 b4  48 27 5a d4* 86 dd 60 00    33...|(.H'Z...`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff db  be 7c 87 00  95 c6 00 00  00 00 fe 80    .....|..........
+0040: 00 00 00 00  00 00 0c 66  46 10 4a db  be 7c 01 01    .......fF.J..|..
+0050: 28 b4 48 27  5a d4*                                   (.H'Z.          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff db  be 7c 38 f9  d3 5f 80 35* 86 dd 60 00    33...|8.._.5..`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 04 a6    ... :...........
+0020: 2b 5f 96 e4  b3 df ff 02  00 00 00 00  00 00 00 00    +_..............
+0030: 00 01 ff db  be 7c 87 00  5a 1f 00 00  00 00 fe 80    .....|..Z......
+0040: 00 00 00 00  00 00 0c 66  46 10 4a db  be 7c 01 01    .......fF.J..|..
+0050: 38 f9 d3 5f  80 35*                                   8.._.5          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff 77  49 6c 28 b4  48 27 5a d4* 86 dd 60 00    33.wIl(.H'Z...`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff 77  49 6c 87 00  27 94 00 00  00 00 20 01    ...wIl..'..... .
+0040: 16 a2 ca a3  a5 00 04 10  ae ba 9b 77  49 6c 01 01    ...........wIl..
+0050: 28 b4 48 27  5a d4*                                   (.H'Z.          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 08 00  27 f9 7a 7c* 86 dd 60 00    33......'.z|..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 38 f9  d3 5f 80 35* 86 dd 60 00    33....8.._.5..`.
+0010: 00 00 00 60  00 01 fe 80  00 00 00 00  00 00 df 85    ...`............
+0020: 1e 57 1c d7  44 69 ff 02  00 00 00 00  00 00 00 00    .W..Di..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: d5 bb 00 00  00 04 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb 04 00  00 00 ff 02    ................
+0060: 00 00 00 00  00 00 00 00  00 01 ff b1  1a 90 04 00    ................
+0070: 00 00 ff 02  00 00 00 00  00 00 00 00  00 01 ff b0    ................
+0080: d2 b7 04 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0090: 00 01 ff d7  44 69*                                   ....Di          
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 b2  11 ff fe 80  00 00 00 00  00 00 0c 66    ...............f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b2  05 93 00 00    ................
+0040: 00 00 00 04  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 00 01 c0 27  00 0c 00 01  00 00 11 94  00 1d 1a 41    ...'...........A
+00b0: 62 64 75 6c  77 61 68 61  62 e2 80 99  73 20 4d 61    bdulwahab...s Ma
+00c0: 63 42 6f 6f  6b 20 50 72  6f c0 27 00  00 29 05 a0    cBook Pro.'..)..
+00d0: 00 00 11 94  00 12 00 04  00 0e 00 05  3e ba e5 db    ............>...
+00e0: 97 8e 3a 27  1f ea c1 3c*                             ..:'..<        
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 5a dc  47 ad 55 e7* 86 dd 60 09    33....Z.G.U...`.
+0010: 0d 00 00 ba  11 ff fe 80  00 00 00 00  00 00 0c b4    ................
+0020: f3 56 09 a3  0f 1b ff 02  00 00 00 00  00 00 00 00    .V..............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 ba  18 10 00 00    ................
+0040: 00 00 00 05  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 08    ._homekit.7.....
+0090: 5f 61 69 72  70 6c 61 79  c0 37 00 0c  00 01 05 5f    _airplay.7....._
+00a0: 72 61 6f 70  c0 37 00 0c  00 01 c0 27  00 0c 00 01    raop.7.....'....
+00b0: 00 00 11 89  00 1d 1a 41  62 64 75 6c  77 61 68 61    .......Abdulwaha
+00c0: 62 e2 80 99  73 20 4d 61  63 42 6f 6f  6b 20 50 72    b...s MacBook Pr
+00d0: 6f c0 27 00  00 29 05 a0  00 00 11 94  00 12 00 04    o.'..)..........
+00e0: 00 0e 00 88  6e 4a 85 78  22 95 5a dc  47 ad 55 e7*   ....nJ.x".Z.G.U.
+
+
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 15:58:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 4e  11 ff fe 80  00 00 00 00  00 00 0c 66    ...N...........f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 4e  36 c9 00 00    ...........N6...
+0040: 00 00 00 01  00 00 00 00  00 01 0c 5f  73 6c 65 65    ..........._slee
+0050: 70 2d 70 72  6f 78 79 04  5f 75 64 70  05 6c 6f 63    p-proxy._udp.loc
+0060: 61 6c 00 00  0c 00 01 00  00 29 05 a0  00 00 11 94    al.......)......
+0070: 00 12 00 04  00 0e 00 05  3e ba e5 db  97 8e 3a 27    ........>.....:'
+0080: 1f ea c1 3c*                                          ..<            
+
+
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 b8  11 ff fe 80  00 00 00 00  00 00 0c 66    ...............f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b8  99 58 00 00    .............X..
+0040: 00 00 00 05  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 80  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 80 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 80 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 80 01 1a 41  62 64 75 6c  77 61 68 61  62 e2 80 99    ...Abdulwahab...
+00b0: 73 20 4d 61  63 42 6f 6f  6b 20 50 72  6f c0 27 00    s MacBook Pro.'.
+00c0: 10 80 01 c0  27 00 0c 00  01 00 00 11  90 00 02 c0    ....'...........
+00d0: 64 00 00 29  05 a0 00 00  11 94 00 12  00 04 00 0e    d..)............
+00e0: 00 05 3e ba  e5 db 97 8e  3a 27 1f ea  c1 3c*         ..>.....:'..<  
+
+
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 b2  11 ff fe 80  00 00 00 00  00 00 0c 66    ...............f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b2  05 98 00 00    ................
+0040: 00 00 00 04  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 00 01 c0 27  00 0c 00 01  00 00 11 8f  00 1d 1a 41    ...'...........A
+00b0: 62 64 75 6c  77 61 68 61  62 e2 80 99  73 20 4d 61    bdulwahab...s Ma
+00c0: 63 42 6f 6f  6b 20 50 72  6f c0 27 00  00 29 05 a0    cBook Pro.'..)..
+00d0: 00 00 11 94  00 12 00 04  00 0e 00 05  3e ba e5 db    ............>...
+00e0: 97 8e 3a 27  1f ea c1 3c*                             ..:'..<        
+
+
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 27  1f ea c1 3c* 86 dd 60 0b    33....:'..<..`.
+0010: 0e 00 00 b2  11 ff fe 80  00 00 00 00  00 00 0c 66    ...............f
+0020: 46 10 4a db  be 7c ff 02  00 00 00 00  00 00 00 00    F.J..|..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b2  05 9b 00 00    ................
+0040: 00 00 00 04  00 01 00 00  00 01 02 6c  62 07 5f 64    ...........lb._d
+0050: 6e 73 2d 73  64 04 5f 75  64 70 05 6c  6f 63 61 6c    ns-sd._udp.local
+0060: 00 00 0c 00  01 0f 5f 63  6f 6d 70 61  6e 69 6f 6e    ......_companion
+0070: 2d 6c 69 6e  6b 04 5f 74  63 70 c0 1c  00 0c 00 01    -link._tcp......
+0080: 08 5f 68 6f  6d 65 6b 69  74 c0 37 00  0c 00 01 0c    ._homekit.7.....
+0090: 5f 73 6c 65  65 70 2d 70  72 6f 78 79  c0 17 00 0c    _sleep-proxy....
+00a0: 00 01 c0 27  00 0c 00 01  00 00 11 8c  00 1d 1a 41    ...'...........A
+00b0: 62 64 75 6c  77 61 68 61  62 e2 80 99  73 20 4d 61    bdulwahab...s Ma
+00c0: 63 42 6f 6f  6b 20 50 72  6f c0 27 00  00 29 05 a0    cBook Pro.'..)..
+00d0: 00 00 11 94  00 12 00 04  00 0e 00 05  3e ba e5 db    ............>...
+00e0: 97 8e 3a 27  1f ea c1 3c*                             ..:'..<        
+
+
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 45 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 47 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2022-05-22 15:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:59:50 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 15:59:50 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 15:59:51 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2022-05-22 16:00:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:00:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:00:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 3a 0e  29 84 36 1f* 86 dd 60 03    33....:.).6..`.
+0010: 05 00 00 39  11 ff fe 80  00 00 00 00  00 00 08 d3    ...9............
+0020: fc eb ab 76  ca b4 ff 02  00 00 00 00  00 00 00 00    ...v............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 39  9f d8 00 00    ...........9....
+0040: 00 00 00 02  00 00 00 00  00 00 08 5f  61 69 72 70    ..........._airp
+0050: 6c 61 79 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    lay._tcp.local..
+0060: 0c 00 01 05  5f 72 61 6f  70 c0 15 00  0c 00 01*      ...._raop...... 
+
+
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff a7  d6 a6 28 b4  48 27 5a d4* 86 dd 60 00    33....(.H'Z...`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff a7  d6 a6 87 00  32 bf 00 00  00 00 fe 80    ........2.......
+0040: 00 00 00 00  00 00 14 9a  59 f7 61 a7  d6 a6 01 01    ........Y.a.....
+0050: 28 b4 48 27  5a d4*                                   (.H'Z.          
+
+
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb bc a9  20 57 6c 93* 86 dd 60 0d    33...... Wl...`.
+0010: 22 cc 00 99  11 ff fe 80  00 00 00 00  00 00 14 9a    "...............
+0020: 59 f7 61 a7  d6 a6 ff 02  00 00 00 00  00 00 00 00    Y.a.............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 99  e8 42 00 00    .............B..
+0040: 00 00 00 04  00 00 00 00  00 01 0f 5f  63 6f 6d 70    ..........._comp
+0050: 61 6e 69 6f  6e 2d 6c 69  6e 6b 04 5f  74 63 70 05    anion-link._tcp.
+0060: 6c 6f 63 61  6c 00 00 0c  80 01 08 5f  68 6f 6d 65    local......_home
+0070: 6b 69 74 c0  1c 00 0c 80  01 1a 41 62  64 75 6c 77    kit.......Abdulw
+0080: 61 68 61 62  e2 80 99 73  20 4d 61 63  42 6f 6f 6b    ahab...s MacBook
+0090: 20 50 72 6f  c0 0c 00 10  80 01 0c 5f  73 6c 65 65     Pro......._slee
+00a0: 70 2d 70 72  6f 78 79 04  5f 75 64 70  c0 21 00 0c    p-proxy._udp.!..
+00b0: 80 01 00 00  29 05 a0 00  00 11 94 00  12 00 04 00    ....)...........
+00c0: 0e 00 13 be  a9 20 57 6c  93 bc a9 20  57 6c 93*      ..... Wl... Wl. 
+
+
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 ff a3  02 7d 28 b4  48 27 5a d4* 86 dd 60 00    33...}(.H'Z...`.
+0010: 00 00 00 20  3a ff fe 80  00 00 00 00  00 00 00 00    ... :...........
+0020: 00 00 00 00  00 01 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 01 ff a3  02 7d 87 00  25 d8 00 00  00 00 20 01    .....}..%..... .
+0040: 16 a2 ca a3  a5 00 fc f7  4a 15 96 a3  02 7d 01 01    ........J....}..
+0050: 28 b4 48 27  5a d4*                                   (.H'Z.          
+
+
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1555 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1555 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1560 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1560 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1560 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1560 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1561 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1561 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1562 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1562 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1563 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1563 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1565 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1565 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1566 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1566 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1567 flow
+2022-05-22 16:00:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1567 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1574 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1574 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1576 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1576 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1575 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1575 flow
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb bc a9  20 57 6c 93* 86 dd 60 0d    33...... Wl...`.
+0010: 22 cc 00 a1  11 ff fe 80  00 00 00 00  00 00 14 9a    "...............
+0020: 59 f7 61 a7  d6 a6 ff 02  00 00 00 00  00 00 00 00    Y.a.............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 a1  f2 26 00 00    .............&..
+0040: 00 00 00 03  00 01 00 00  00 01 0f 5f  63 6f 6d 70    ..........._comp
+0050: 61 6e 69 6f  6e 2d 6c 69  6e 6b 04 5f  74 63 70 05    anion-link._tcp.
+0060: 6c 6f 63 61  6c 00 00 0c  00 01 08 5f  68 6f 6d 65    local......_home
+0070: 6b 69 74 c0  1c 00 0c 00  01 0c 5f 73  6c 65 65 70    kit......._sleep
+0080: 2d 70 72 6f  78 79 04 5f  75 64 70 c0  21 00 0c 00    -proxy._udp.!...
+0090: 01 c0 0c 00  0c 00 01 00  00 0e 10 00  1d 1a 41 62    ..............Ab
+00a0: 64 75 6c 77  61 68 61 62  e2 80 99 73  20 4d 61 63    dulwahab...s Mac
+00b0: 42 6f 6f 6b  20 50 72 6f  c0 0c 00 00  29 05 a0 00    Book Pro....)...
+00c0: 00 11 94 00  12 00 04 00  0e 00 13 be  a9 20 57 6c    ............. Wl
+00d0: 93 bc a9 20  57 6c 93*                                ... Wl.         
+
+
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb bc a9  20 57 6c 93* 86 dd 60 0d    33...... Wl...`.
+0010: 22 cc 00 a1  11 ff fe 80  00 00 00 00  00 00 14 9a    "...............
+0020: 59 f7 61 a7  d6 a6 ff 02  00 00 00 00  00 00 00 00    Y.a.............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 a1  f5 26 00 00    .............&..
+0040: 00 00 00 03  00 01 00 00  00 01 0f 5f  63 6f 6d 70    ..........._comp
+0050: 61 6e 69 6f  6e 2d 6c 69  6e 6b 04 5f  74 63 70 05    anion-link._tcp.
+0060: 6c 6f 63 61  6c 00 00 0c  00 01 08 5f  68 6f 6d 65    local......_home
+0070: 6b 69 74 c0  1c 00 0c 00  01 0c 5f 73  6c 65 65 70    kit......._sleep
+0080: 2d 70 72 6f  78 79 04 5f  75 64 70 c0  21 00 0c 00    -proxy._udp.!...
+0090: 01 c0 0c 00  0c 00 01 00  00 0e 0d 00  1d 1a 41 62    ..............Ab
+00a0: 64 75 6c 77  61 68 61 62  e2 80 99 73  20 4d 61 63    dulwahab...s Mac
+00b0: 42 6f 6f 6b  20 50 72 6f  c0 0c 00 00  29 05 a0 00    Book Pro....)...
+00c0: 00 11 94 00  12 00 04 00  0e 00 13 be  a9 20 57 6c    ............. Wl
+00d0: 93 bc a9 20  57 6c 93*                                ... Wl.         
+
+
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  0c 0c d8 8c  79 24 f8 2c* 86 dd 60 03    33......y$.,..`.
+0010: 35 c0 00 2e  11 01 20 01  16 a2 ca a3  a5 00 04 eb    5..... .........
+0020: c9 ee c8 f8  26 55 ff 05  00 00 00 00  00 00 00 00    ....&U..........
+0030: 00 00 00 00  0c 0c 27 75  27 75 00 2e  84 6e 0a 20    ......'u'u...n. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 0c  00 0c d8 8c  79 24 f8 2c* 86 dd 60 09    33......y$.,..`.
+0010: e4 f5 00 2e  11 01 fe 80  00 00 00 00  00 00 21 ff    ..............!.
+0020: 42 9f 6c 26  8a 6d ff 02  00 00 00 00  00 00 00 00    B.l&.m..........
+0030: 00 00 00 0c  00 0c 27 75  27 75 00 2e  9b 21 0a 20    ......'u'u...!. 
+0040: 30 31 41 31  35 30 35 36  38 45 34 32  35 43 42 37    01A150568E425CB7
+0050: 30 41 34 31  37 30 36 44  31 35 41 31  42 38 44 43    0A41706D15A1B8DC
+0060: 10 01 18 14*                                          ....            
+
+
+2022-05-22 16:00:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:01:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:01:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:01:59 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2022-05-22 16:03:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:03:00 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2022-05-22 16:03:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:03:14 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap file!
+2022-05-22 16:03:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:03:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:24:21 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 16:24:21 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 16:24:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 08 00  27 6a a8 b7* 86 dd 60 0b    33......'j....`.
+0010: 1f 65 00 08  3a ff fe 80  00 00 00 00  00 00 2d dc    e..:.........-.
+0020: 41 40 1c 60  22 e3 ff 02  00 00 00 00  00 00 00 00    A@.`"...........
+0030: 00 00 00 00  00 02 85 00  ce d7 00 00  00 00*         ..............  
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 08 00  27 0e 74 d4* 86 dd 60 0e    33......'.t...`.
+0010: 27 12 00 10  3a ff fe 80  00 00 00 00  00 00 4e d2    '...:.........N.
+0020: 31 28 31 5d  0a 0e ff 02  00 00 00 00  00 00 00 00    1(1]............
+0030: 00 00 00 00  00 02 85 00  1c e6 00 00  00 00 01 01    ................
+0040: 08 00 27 0e  74 d4*                                   ..'.t.          
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 08 00  27 6a a8 b7* 86 dd 60 05    33......'j....`.
+0010: cf 29 00 35  11 ff fe 80  00 00 00 00  00 00 2d dc    .).5..........-.
+0020: 41 40 1c 60  22 e3 ff 02  00 00 00 00  00 00 00 00    A@.`"...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  43 3e 00 00    ...........5C>..
+0040: 00 00 00 02  00 00 00 00  00 00 04 5f  69 70 70 04    ..........._ipp.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 05    _tcp.local......
+0060: 5f 69 70 70  73 c0 11 00  0c 00 01*                   _ipps......     
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 08 00  27 0e 74 d4* 86 dd 60 04    33......'.t...`.
+0010: 6f 42 00 92  11 ff fe 80  00 00 00 00  00 00 4e d2    oB............N.
+0020: 31 28 31 5d  0a 0e ff 02  00 00 00 00  00 00 00 00    1(1]............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 92  ba 87 00 00    ................
+0040: 00 00 00 07  00 01 00 00  00 00 04 5f  66 74 70 04    ..........._ftp.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 04    _tcp.local......
+0060: 5f 6e 66 73  c0 11 00 0c  00 01 0b 5f  61 66 70 6f    _nfs......._afpo
+0070: 76 65 72 74  63 70 c0 11  00 0c 00 01  04 5f 73 6d    vertcp......._sm
+0080: 62 c0 11 00  0c 00 01 09  5f 73 66 74  70 2d 73 73    b......._sftp-ss
+0090: 68 c0 11 00  0c 00 01 08  5f 77 65 62  64 61 76 73    h......._webdavs
+00a0: c0 11 00 0c  00 01 07 5f  77 65 62 64  61 76 c0 11    ......._webdav..
+00b0: 00 0c 00 01  c0 3e 00 0c  00 01 00 00  11 94 00 08    .....>..........
+00c0: 05 4c 49 4e  55 58 c0 3e*                             .LINUX.>        
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 08 00  27 0e 74 d4* 86 dd 60 0e    33......'.t...`.
+0010: 27 12 00 08  3a ff fe 80  00 00 00 00  00 00 4e d2    '...:.........N.
+0020: 31 28 31 5d  0a 0e ff 02  00 00 00 00  00 00 00 00    1(1]............
+0030: 00 00 00 00  00 02 85 00  c1 d1 00 00  00 00*         ..............  
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 08 00  27 10 0c fe* 86 dd 60 00    33......'.....`.
+0010: c3 31 00 35  11 ff fe 80  00 00 00 00  00 00 94 8c    .1.5............
+0020: 8f a6 b5 bc  3b 0b ff 02  00 00 00 00  00 00 00 00    ....;...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  dc a2 00 00    ...........5....
+0040: 00 00 00 02  00 00 00 00  00 00 04 5f  69 70 70 04    ..........._ipp.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 05    _tcp.local......
+0060: 5f 69 70 70  73 c0 11 00  0c 00 01*                   _ipps......     
+
+
+2022-05-22 16:24:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 17:10:05 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 17:10:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 00 0c  29 04 ba 2d* 86 dd 60 0e    33......)..-..`.
+0010: d8 58 00 a9  11 ff fe 80  00 00 00 00  00 00 50 32    .X............P2
+0020: 0c c6 ed 85  44 2e ff 02  00 00 00 00  00 00 00 00    ....D...........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 a9  8d e5 00 00    ................
+0040: 00 00 00 09  00 01 00 00  00 00 04 5f  6e 66 73 04    ..........._nfs.
+0050: 5f 74 63 70  05 6c 6f 63  61 6c 00 00  0c 00 01 04    _tcp.local......
+0060: 5f 69 70 70  c0 11 00 0c  00 01 05 5f  69 70 70 73    _ipp......._ipps
+0070: c0 11 00 0c  00 01 04 5f  66 74 70 c0  11 00 0c 00    ......._ftp.....
+0080: 01 07 5f 77  65 62 64 61  76 c0 11 00  0c 00 01 08    .._webdav.......
+0090: 5f 77 65 62  64 61 76 73  c0 11 00 0c  00 01 09 5f    _webdavs......._
+00a0: 73 66 74 70  2d 73 73 68  c0 11 00 0c  00 01 04 5f    sftp-ssh......._
+00b0: 73 6d 62 c0  11 00 0c 00  01 0b 5f 61  66 70 6f 76    smb......._afpov
+00c0: 65 72 74 63  70 c0 11 00  0c 00 01 c0  70 00 0c 00    ertcp.......p...
+00d0: 01 00 00 11  94 00 08 05  4c 49 4e 55  58 c0 70*      ........LINUX.p 
+
+
+2022-05-22 17:10:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:33 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /root/Desktop/Project_F/Network_traffic/captured.pcap
+2022-05-22 17:10:33 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /root/Desktop/Project_F/flow_data
+2022-05-22 17:10:33 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 18:26:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 18:26:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 18:26:13 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 18:26:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 18:26:57 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 18:26:57 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 18:26:57 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 18:26:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:09:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:09:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:09:21 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:09:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 db fe cf* 86 dd 60 0c    33......).....`.
+0010: e7 95 00 08  3a ff fe 80  00 00 00 00  00 00 28 11    ....:.........(.
+0020: 77 d1 ff 78  3c c9 ff 02  00 00 00 00  00 00 00 00    w..x<...........
+0030: 00 00 00 00  00 02 85 00  a1 12 00 00  00 00*         ..............  
+
+
+2022-05-22 19:09:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:10:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:10:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:10:31 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:10:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:14:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:14:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:14:41 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:14:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:15:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:15:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:15:51 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:15:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:24:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:24:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:24:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:24:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:25:36 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:25:36 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:25:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:25:37 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:46:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:46:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:46:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:46:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:49:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:49:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:49:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:49:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:50:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:50:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:50:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:50:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 19:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 19:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 19:51:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 19:51:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:01:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:01:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:01:13 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:01:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:05:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:05:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:05:15 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:05:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 00 0c  29 db fe cf* 86 dd 60 0c    33......).....`.
+0010: e7 95 00 08  3a ff fe 80  00 00 00 00  00 00 28 11    ....:.........(.
+0020: 77 d1 ff 78  3c c9 ff 02  00 00 00 00  00 00 00 00    w..x<...........
+0030: 00 00 00 00  00 02 85 00  a1 12 00 00  00 00*         ..............  
+
+
+2022-05-22 20:05:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:06:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:06:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:06:34 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:06:34 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:07:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:07:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:07:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:07:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:09:11 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:09:11 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:09:11 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:09:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:10:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:10:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:10:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:10:30 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:12:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:12:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:12:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:12:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap
+2022-05-22 20:13:24 INFO  cic.cs.unb.ca.ifm.Cmd    You select: Network_traffic/captured.pcap
+2022-05-22 20:13:24 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: flow_data/
+2022-05-22 20:13:24 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-05-22 20:13:24 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on Network_traffic/captured.pcap

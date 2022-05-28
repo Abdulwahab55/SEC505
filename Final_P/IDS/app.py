@@ -47,7 +47,7 @@ def register():
         try:
             db.session.add(newUser)
             db.session.commit()
-            return redirect('index')
+            return redirect('/')
         except:
             session['error'] = "Email alredy exist !"
             return redirect('register')
