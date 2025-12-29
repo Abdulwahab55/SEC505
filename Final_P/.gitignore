@@ -1,0 +1,67 @@
+# .gitignore for SEC505 IDS System
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trained Models (large files)
+trained_models/*.pkl
+
+# Network Capture Data
+Network_traffic/*.pcap
+flow_data/*.csv
+
+# Reports and Logs
+Reports/*.csv
+logs/*.log
+
+# Temporary Files
+*.tmp
+temp/
+tmp/
+*.csv
+
+# Database
+*.sql
+*.db
+*.sqlite
+
+# Sensitive Information
+config_local.py
+secrets.py
